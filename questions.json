@@ -1,0 +1,5748 @@
+[
+  {
+    "id": 2,
+    "question": "Three–point estimating provides a combined indication of:",
+    "option_A": "cost, time and risk",
+    "option_B": "cost, time and work",
+    "option_C": "cost, time and resources",
+    "option_D": "cost, time and effort",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 1,
+      "correct": 1,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 3,
+    "question": "The revised estimate at completion (EAC = AC + ETC) assumes that:",
+    "option_A": "There will be no further delays to project work.",
+    "option_B": "Future work will be delivered at the same efficiency of past work.",
+    "option_C": "The rate of delivering work in the future is the same as that to date.",
+    "option_D": "The delivery of future work will match its cost estimates.",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 1,
+      "correct": 0,
+      "wrong": 1
+    },
+    "favorite": false
+  },
+  {
+    "id": 4,
+    "question": "A PM should not agree to a proposed change until? (重复题)",
+    "option_A": "the customer agrees to pay for all associated costs",
+    "option_B": "the change is removed from the critical path",
+    "option_C": "its full effect on project priorities has been determined and communicate to relevant stakeholders",
+    "option_D": "the sponsor accepts all risks associated with the change",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 5,
+    "question": "A bottom–up estimate usually is:",
+    "option_A": "Done later in the project timeline, on an accurate cost basis and requires a comprehensive WBS",
+    "option_B": "Done earlier in the project timeline, on a comparative cost basis and requires a comprehensive WBS",
+    "option_C": "Done later in the project timeline, on a comparative cost basis and requires a comprehensive WBS",
+    "option_D": "Done earlier in the project timeline, on an accurate cost basis and requires an outline WBS.",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 6,
+    "question": "Which is not an advantage of adopting a functional organisation structure over a strong matrix project organisation?",
+    "option_A": "Nurturing of engineering knowledge in the organisation",
+    "option_B": "Ability to easily convene cross–functional teams",
+    "option_C": "Mentoring junior engineering team members in relevant discipline",
+    "option_D": "Inherent technical oversight of engineering decisions",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 7,
+    "question": "People getting sick with COVID–19' is not a good item to put in your risk register because:",
+    "option_A": "Who says? I think it’s a great thing to put in a risk register!",
+    "option_B": "It is an external threat to project delivery.",
+    "option_C": "It does not describe a discrete event for which you can plan a specific response",
+    "option_D": "It would be escalated to the project sponsor, and is therefore not managed by the PM.",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 8,
+    "question": "To help you write down project benefits you would, at least, need to obtain:",
+    "option_A": "The project risk register",
+    "option_B": "Stakeholder register and list of project objectives.",
+    "option_C": "Most of the project requirements",
+    "option_D": "The scope statement and the WBS",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 9,
+    "question": "In EV Analysis, a project with a positive CV and negative SV would indicate:",
+    "option_A": "Project is over budget and behind schedule",
+    "option_B": "Project is under budget and ahead of schedule",
+    "option_C": "Project is over budget and ahead of schedule",
+    "option_D": "Project is under budget and behind schedule",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is not a real limitation of Agile methodologies?",
+    "option_A": "Higher implementation cost than other methodologies",
+    "option_B": "Harder to track progress compared to a predictive approach with a clear scope baseline",
+    "option_C": "Requires expert judgement to make decisions in the meetings",
+    "option_D": "The project easily runs off–track if the PM is not focussed on the correct outcomes.",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 11,
+    "question": "Which of the following costs is a direct cost?",
+    "option_A": "Office consumables",
+    "option_B": "Outsourcing HR administration",
+    "option_C": "Office rent",
+    "option_D": "Hire of construction equipment",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 12,
+    "question": "If I am calculating earliest start and finish dates using a network diagram, then I am using...",
+    "option_A": "Critical chain method",
+    "option_B": "Precedence diagramming method",
+    "option_C": "Critical path method",
+    "option_D": "Variance analysis",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 13,
+    "question": "Two disadvantages of fast tracking a schedule are, respectively:",
+    "option_A": "Increased schedule sensitivity, increased technical risk",
+    "option_B": "Schedule compression, increase in technical risk",
+    "option_C": "Longer critical path, increased schedule risk",
+    "option_D": "longer critical path, higher costs",
+    "option_E": "Reduction in sensitivity, longer critical path",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 14,
+    "question": "A list of features, updates and modifications requested by the customer is the:",
+    "option_A": "Sprint",
+    "option_B": "Throughput",
+    "option_C": "Backlog",
+    "option_D": "MVP",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 15,
+    "question": "Decomposition, as a technique for creating the WBS, does not include:",
+    "option_A": "Identifying deliverables",
+    "option_B": "Prioritization of deliverables",
+    "option_C": "Eliminating duplication",
+    "option_D": "Breaking up higher level deliverables into more detailed components",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is an advantage of Gantt Charts over Network Analysis?",
+    "option_A": "Showing visual complexity",
+    "option_B": "An easier basis for resource planning",
+    "option_C": "Show the logical interdependencies between tasks",
+    "option_D": "Better calculation of floats",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 17,
+    "question": "Crashing as a strategy for schedule compression:",
+    "option_A": "Does not automatically increase risk, but will usually cost the project more to complete the same amount of work",
+    "option_B": "Relies on modifying the interdependencies between activities",
+    "option_C": "Does not really help to increase project progress",
+    "option_D": "Should be avoided because it increases technical risks to project delivery",
+    "option_E": "Is a cost–effective way to accelerate progress, but increases technical risks to project delivery",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 18,
+    "question": "The forward pass calculation through a project network diagram calculates:",
+    "option_A": "The earliest start and earliest finish date of each activity",
+    "option_B": "The critical path",
+    "option_C": "The late start and late finish date for each activity",
+    "option_D": "The total slack",
+    "option_E": "The earliest start and latest finish date of each activity",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is a benefit of using a logical coding system for a WBS?",
+    "option_A": "Easy retrieval of items from past project records",
+    "option_B": "Reduction in design resource requirements",
+    "option_C": "Reduction in planned project duration",
+    "option_D": "Ability to carry out cost reduction exercises",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 20,
+    "question": "The management reserve budget is for funding:",
+    "option_A": "Changes to scope approved by the project manager",
+    "option_B": "Contingency plans",
+    "option_C": "Changes to scope approved by the steering committee",
+    "option_D": "Rework of deliverables",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 21,
+    "question": "During the Closure lifecycle phase, the PM would need to:",
+    "option_A": "360 Degree Review of project staff performance.",
+    "option_B": "Undertake stakeholder Analysis",
+    "option_C": "Elicit requirements",
+    "option_D": "Develop the team.",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 22,
+    "question": "Before working extensively on my project risk management plan, I should have completed at least:",
+    "option_A": "WBS and estimates of cost and duration",
+    "option_B": "List of work packages, a network diagram and stakeholder analysis",
+    "option_C": "It doesn't matter, because risks can be added at any time",
+    "option_D": "Communication plan",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 23,
+    "question": "Methods to help identify possible project risks do not include:",
+    "option_A": "Focus groups, meetings, checklists, case studies, historical projects, surveys.",
+    "option_B": "Consulting lessons learned from past projects, brainstorming.",
+    "option_C": "Discarding the most severe risks if they have very low probability of occurrence.",
+    "option_D": "Reading risk registers from past projects.",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 24,
+    "question": "Common mistakes encountered in drawing up a WBS do not normally include:",
+    "option_A": "Gaps in project scope.",
+    "option_B": "Including items in the WBS that are out of scope.",
+    "option_C": "Duplication in scope between different parts.",
+    "option_D": "Listing tasks instead of deliverables.",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 25,
+    "question": "Main reason to adopt Agile practices is",
+    "option_A": "Faster product delivery adjusted to changing customer needs",
+    "option_B": "Solve siloes between business & IT",
+    "option_C": "Competitive edge",
+    "option_D": "Long term strategic planning",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 26,
+    "question": "If you had to choose one option, which is probably best for success in your project(s) ?",
+    "option_A": "Use Agile methodologies",
+    "option_B": "Advanced tools and elaborate process",
+    "option_C": "Advanced tools used by a mediocre team",
+    "option_D": "Carefully perfected system of work",
+    "option_E": "A highly functioning team with basic tools",
+    "answer": "E",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 27,
+    "question": "A Stakeholder Engagement Assessment Matrix rates a stakeholder as “resistive” when:",
+    "option_A": "Not supportive of the changes that may occur as a result of the project",
+    "option_B": "Aware of the project and aware of the work and its outcomes",
+    "option_C": "Obstructing project work",
+    "option_D": "Actively campaigning against the project",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 28,
+    "question": "Developing and agreeing contingency plans with the stakeholders is a strategy for",
+    "option_A": "Risk prioritisation",
+    "option_B": "Risk transfer",
+    "option_C": "Risk avoidance",
+    "option_D": "Risk acceptance",
+    "option_E": "Risk mitigation",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 29,
+    "question": "In a project plan or charter, the best way to summarise the project, communicate a conceptual definition of project boundaries, and set the expectations of the stakeholders is to:",
+    "option_A": "Write a scope statement",
+    "option_B": "Show the WBS",
+    "option_C": "Provide a cost summary",
+    "option_D": "Show the project Gantt chart",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 30,
+    "question": "Insurance is a way of:",
+    "option_A": "Transferring Risk.",
+    "option_B": "Mitigating Risk.",
+    "option_C": "Accepting Risk",
+    "option_D": "Avoiding risk.",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 31,
+    "question": "An example of a project change initiated by project monitoring and control processes would be:",
+    "option_A": "Changes forced by regulatory modifications",
+    "option_B": "Changes in execution processes",
+    "option_C": "Changes to scope due to differences found in assumed vs actual environmental conditions",
+    "option_D": "Changes to scope due to quality issues needing rectification",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 32,
+    "question": "In a project to build a new workshop, ‘compliance with Australian Standards for operating machine tools’ is most likely to be a:",
+    "option_A": "Constraint",
+    "option_B": "Functional requirement",
+    "option_C": "Deliverable",
+    "option_D": "Benefit",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 33,
+    "question": "Which of these formulae connected with earned value management is wrong?",
+    "option_A": "CV=EV–AC",
+    "option_B": "SV=AC–EV",
+    "option_C": "EAC=AC+ETC",
+    "option_D": "CPI = EV/AV",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 34,
+    "question": "Which of the following is an incorrect statement about formulating project scope?",
+    "option_A": "An opportunity for the project team to contribute to innovation",
+    "option_B": "Requires use of domain–specific knowledge to propose a concept design solution.",
+    "option_C": "May be difficult, including in a well–planned project",
+    "option_D": "Is completely defined by the stakeholders’ requirements",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 35,
+    "question": "Which of the following is less likely to take place during the project execution phase?",
+    "option_A": "PM builds relationships",
+    "option_B": "Realisation of the organisations strategy and ambition",
+    "option_C": "PM classifies stakeholders",
+    "option_D": "PM negotiates and manages change",
+    "option_E": "Most resources are expended",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 36,
+    "question": "Activities that can take place at the same time are termed",
+    "option_A": "merge activity",
+    "option_B": "burst activity",
+    "option_C": "critical path",
+    "option_D": "parallel activities",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 37,
+    "question": "Which of the following is a well–defined risk?",
+    "option_A": "Risks from public opinion",
+    "option_B": "Conflict with contractors over delivery schedule",
+    "option_C": "The project runs out of funding",
+    "option_D": "Team members cannot come to work",
+    "option_E": "Delay to pouring concrete foundations due to heavy rain",
+    "answer": "E",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 38,
+    "question": "Planned value is:",
+    "option_A": "Not meaningful until compared to earned value",
+    "option_B": "A good indicator of scope creep",
+    "option_C": "Percent complete multiplied by actual cost",
+    "option_D": "Useful for planning project progress payments",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 39,
+    "question": "An approved scope change request will often imply:",
+    "option_A": "Spending more of the contingency reserve budget",
+    "option_B": "Spending more of the management reserve budget",
+    "option_C": "Updating the project charter",
+    "option_D": "Revising the project benefits",
+    "option_E": "No change to the scope baseline",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 40,
+    "question": "A PM needs a good understanding of their organisation's strategy because:",
+    "option_A": "This enables the PM to effectively advocate for their project.",
+    "option_B": "Strategy is fundamental in determining how an organisation will compete.",
+    "option_C": "It enables the PM to set project deliverables that will realise the strategy",
+    "option_D": "Aligning projects with strategic goals is fundamental to organizational success.",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 41,
+    "question": "Earned value is:",
+    "option_A": "the actual cost of work performed",
+    "option_B": "the budgeted cost of work planned",
+    "option_C": "percent complete multiplied by actual cost",
+    "option_D": "the budgeted cost of work performed",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 42,
+    "question": "Free Float is:",
+    "option_A": "The amount of float available to a task when all its following tasks take place at their earliest possible time.",
+    "option_B": "The residue of float available to a task after the project has started.",
+    "option_C": "The amount of time left over if the project finishes early.",
+    "option_D": "The amount of float available to a task when all its following tasks take place at their latest possible time",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 43,
+    "question": "In an engineering project, an important difference between requirements and scope is that:",
+    "option_A": "Scope defines the problem, whereas the requirements are the solution to it.",
+    "option_B": "Requirements define the problem, whereas scope is your solution to it.",
+    "option_C": "Scope is usually negotiable.",
+    "option_D": "Requirements are usually negotiable.",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 44,
+    "question": "Changing your project schedule so that release of your new computer game occurs 2 weeks before Christmas would be an example of:",
+    "option_A": "Actively accepting an opportunity",
+    "option_B": "Exploiting an opportunity",
+    "option_C": "Sharing an opportunity",
+    "option_D": "Mitigating a risk",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 45,
+    "question": "Which is not an advantage of a predictive project lifecycle, compared to an iterative one, for well–defined project scope?",
+    "option_A": "Higher commitment to deliverables",
+    "option_B": "Develops new knowledge and expertise",
+    "option_C": "More cost effective",
+    "option_D": "Minimises management complexity",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 46,
+    "question": "What can the PM not delegate?",
+    "option_A": "Integration management",
+    "option_B": "Risk management",
+    "option_C": "Schedule management",
+    "option_D": "Cost management",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 47,
+    "question": "If you are asked to join a panel of experts, are sent questionnaires to fill in, and are asked to comment on the responses of other people to the questionnaire, then you are likely participating in:",
+    "option_A": "Function point method",
+    "option_B": "Apportionment method",
+    "option_C": "Delphi method",
+    "option_D": "Program Evaluation and Review Technique",
+    "option_E": "",
+    "answer": "C",
+    "note": "---\n\n### 题库 2 (共49题)\n[cite_start][cite: 2]",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 48,
+    "question": "The project manager's most influential stakeholder is the:",
+    "option_A": "Project director",
+    "option_B": "Client",
+    "option_C": "Program manager",
+    "option_D": "Project sponsor",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 49,
+    "question": "What is the difference between a WP and an activity?",
+    "option_A": "A WP is bigger than an activity, in terms of its financial value",
+    "option_B": "Work packages have more complex interdependencies, but activities are usually executed sequentially",
+    "option_C": "An activity is only carried out by one person, but the W is a team effort",
+    "option_D": "An activity cannot be handed over to a stakeholder",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 50,
+    "question": "A project manager presents a summary of project team roles and responsibilities, training needs, and recognition and rewards to the project sponsor! approval. In what activity are they engaged?",
+    "option_A": "Identifying resource risk",
+    "option_B": "Developing the stakeholder engagement plan",
+    "option_C": "Estimating project costs",
+    "option_D": "Developing the resource management plan",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 51,
+    "question": "Which of these formulas connected with earned value management is wrong?",
+    "option_A": "CV= EV – AC",
+    "option_B": "SV = PV – EV",
+    "option_C": "CPI = EV/AV",
+    "option_D": "SPI = EV/PV",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 52,
+    "question": "All of the following are examples of formal project management Knowledge Areas except for which one?",
+    "option_A": "Project Stakeholder Management",
+    "option_B": "Project Procurement Management",
+    "option_C": "Project Integration Management",
+    "option_D": "Project Requirements Management",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 53,
+    "question": "The interactive model of person–to–person communication is useful for.",
+    "option_A": "Setting requirements for the communications plan",
+    "option_B": "Planning communications between individuals or small groups",
+    "option_C": "Broadcasting messages through social media",
+    "option_D": "Planning email communications lists",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 54,
+    "question": "The PM develops a project management plan to describe how the project will be executed, monitored, controlled, and closed. Which of the following tool or technique to assist the project manager to assure the success of the project management plan?",
+    "option_A": "Organisational process assets",
+    "option_B": "Meetings",
+    "option_C": "Outputs from other processes",
+    "option_D": "Enterprise environmental factors",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 55,
+    "question": "Planned value is:",
+    "option_A": "Not meaningful until compared to earned value",
+    "option_B": "Useful for planning project progress payments",
+    "option_C": "A good indicator of scope creep",
+    "option_D": "Percent complete multiplied by actual cost",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 56,
+    "question": "There is a blank row in a developed relationship section of the house of quality matric what does it mean?",
+    "option_A": "The customer requirements' targets are defined too high so the technical parameters cannot capture them",
+    "option_B": "Not enough customer requirements are defined.",
+    "option_C": "There is a customer requirement that is not related to any technical parameter.",
+    "option_D": "There is technical parameter that is not related to any customer requirement.",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 57,
+    "question": "A Project Manager needs which of the following skills to competently manage a project?",
+    "option_A": "Technical Project Management skills",
+    "option_B": "Technical Project Management Skills, Leadership skills: Strategic and Business management skills",
+    "option_C": "Technical Project Management skills; Leadership skills; Engineering background",
+    "option_D": "Technical Project Management skills; Strategic and Business management skills",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 58,
+    "question": "Projects are the principal way that an organisation...",
+    "option_A": "Raises efficiency",
+    "option_B": "Increases market share",
+    "option_C": "Implements change",
+    "option_D": "Improves quality",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 59,
+    "question": "Which is a project?",
+    "option_A": "Managing the human resources division of a consulting company",
+    "option_B": "The work of an air traffic control team directing aircraft",
+    "option_C": "Assembling electric cars in a factory",
+    "option_D": "Remediating an old industrial site",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 60,
+    "question": "Special emphasis can be defined for some customer requirements. In which step of QFD can we address such special emphasis?",
+    "option_A": "Technical comparison",
+    "option_B": "Defining improvement ratios",
+    "option_C": "Competitive analysis",
+    "option_D": "Interaction analysis",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 61,
+    "question": "Working in a complex program to design a new electrical grid for New South Wales, your role is to monitor and update technical requirements, and track any changes to project scope and test plans across all the contributing engineering organisations. You are engaged in:",
+    "option_A": "Program management",
+    "option_B": "Configuration management",
+    "option_C": "Requirements definition",
+    "option_D": "Change management",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 62,
+    "question": "A burndown chart will show you:",
+    "option_A": "Work in progress, work that is held up, and work ready to start",
+    "option_B": "Velocity, variance at completion, and work in progress",
+    "option_C": "Rate of work performed, actual cost of work performed, and budgeted cost of work performed",
+    "option_D": "Velocity, forecast completion date, and scope discovery",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 63,
+    "question": "Benchmarking is unlikely to be useful if you need to:",
+    "option_A": "Characterise best practice",
+    "option_B": "Measure progress",
+    "option_C": "Research ideas for improvement",
+    "option_D": "Decide how to measure performance",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 64,
+    "question": "Analogous estimating is also known as what?",
+    "option_A": "Parametric estimating",
+    "option_B": "Top–down estimating",
+    "option_C": "Bottom–up estimating",
+    "option_D": "Three–point estimating",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 65,
+    "question": "Which is not always a characteristic of the critical path?",
+    "option_A": "Longest path through the network",
+    "option_B": "Revealed by forward and backward pass calculation through network diagram",
+    "option_C": "Has zero float during project execution",
+    "option_D": "Constituent activities can delay project completion",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 66,
+    "question": "A list of features, updates and modifications requested by the customer is the:",
+    "option_A": "Sprint",
+    "option_B": "MVP",
+    "option_C": "Throughput",
+    "option_D": "Backlog",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 67,
+    "question": "Review organisational mission statement, set objectives, and implement strategies through projects, are part of the",
+    "option_A": "Program management",
+    "option_B": "Project management process",
+    "option_C": "Earned value management",
+    "option_D": "Strategic management process",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 68,
+    "question": "Checking the compliance of any element with its purpose describes the phase of systems engineering.",
+    "option_A": "Validation",
+    "option_B": "System architecting",
+    "option_C": "Detail design",
+    "option_D": "Requirement analysis",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 69,
+    "question": "The PM (and the project team) will have the greatest influence over.",
+    "option_A": "The profit (or loss) arising from project execution",
+    "option_B": "Enterprise environmental factors",
+    "option_C": "Project costs",
+    "option_D": "Organisational process assets",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 70,
+    "question": "What is correct about negative float?",
+    "option_A": "The critical path cannot have negative float",
+    "option_B": "Caused when activity durations are too short for the imposed end date",
+    "option_C": "Calculated during the forward pass calculation",
+    "option_D": "An indication of which changes to a network diagram can bring a project on track",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 71,
+    "question": "Which of the following is less likely to be a challenge of using an Agile project management approach?",
+    "option_A": "Higher overall cost of delivery compared to a more predictive management approach",
+    "option_B": "Ensuring quality in the end product",
+    "option_C": "A need for sustained expert attention to manage the project.",
+    "option_D": "It is easy for the project to go off track",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 72,
+    "question": "Who manages the project budget in a strong matrix structure?",
+    "option_A": "The Project Manager",
+    "option_B": "The Organisation's Chief Financial Officer",
+    "option_C": "The Functional Manager",
+    "option_D": "A mixture of Functional Manager and Project Manager",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 73,
+    "question": "What does system architecture embody?",
+    "option_A": "System's structure as combination of constructing subsystems",
+    "option_B": "System's behaviour as combination of dynamic interactions",
+    "option_C": "System's structure as combination of subsystems interfaces",
+    "option_D": "System's functions as combination of structure and behaviour",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 74,
+    "question": "If I am developing the project charter, monitoring project work, or closing a project, I am engaged in",
+    "option_A": "Project integration management",
+    "option_B": "Configuration management",
+    "option_C": "Stakeholder management",
+    "option_D": "Project scope management",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 75,
+    "question": "Which is not one of the characteristics of a deterministic approach to risk and safety?",
+    "option_A": "A way to prioritize resources on the highest risks",
+    "option_B": "Demonstrating that all hazards have contingencies in place to deal with their consequences",
+    "option_C": "Pre–planned contingencies are valuable because they can be modified for other unpredicted events",
+    "option_D": "Bad things are assumed to occur",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 76,
+    "question": "If I am calculating earliest start and finish dates using a network diagram, then I am using",
+    "option_A": "Precedence diagramming method",
+    "option_B": "Critical chain method",
+    "option_C": "Variance analysis",
+    "option_D": "Critical path method",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 77,
+    "question": "An example of a project change initiated by project monitoring and control processes would be:",
+    "option_A": "Changes in execution processes",
+    "option_B": "Changes to scope due to differences found in assumed vs actual environmental conditions",
+    "option_C": "Changes to scope due to quality issues needing rectification",
+    "option_D": "Changes forced by regulatory modifications",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 78,
+    "question": "Optimism bias...",
+    "option_A": "Is when a project team actively seeks low–cost estimates to improve the forecast ROI of their proposal",
+    "option_B": "Allows the forecaster to estimate likely cost overruns based on observed overruns in a set of comparable projects",
+    "option_C": "Cannot practically be avoided in human decisions",
+    "option_D": "Describes the tendency of planners to have high confidence in a project plan that is easily visualised",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 79,
+    "question": "Which choice is definitely an incorrect suggestion on the subject of defining the work packages on a WBS?",
+    "option_A": "Delivery of a single W can be managed and controlled by one person",
+    "option_B": "It's OK if a few WPs contain most of project scope, as measured by cost",
+    "option_C": "You must not have any WPs that duplicate parts of project scope",
+    "option_D": "Decompose the deliverables until you see the interrelationships between the activities required for their completion",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 80,
+    "question": "A fixed price procurement contract can be useful to:",
+    "option_A": "Ensure any change to scope is funded by supplier",
+    "option_B": "Transfer risks associated with controlling costs to the supplier",
+    "option_C": "Reduce baseline costs of procuring deliverables",
+    "option_D": "Share opportunity associated with controlling costs with the supplier",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 81,
+    "question": "During the Planning lifecycle phase, the PM would need to:",
+    "option_A": "Appoint a PM.",
+    "option_B": "Identify the team.",
+    "option_C": "Identify stakeholders.",
+    "option_D": "Elicit requirements",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 82,
+    "question": "A key responsibility of the PM that cannot be delegated or transferred is:",
+    "option_A": "Developing the team",
+    "option_B": "Safety risk assessment",
+    "option_C": "Formulating project scope",
+    "option_D": "Project integration management",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 83,
+    "question": "According to the QFD method, the calculated weight for a customer requirement is a function of certain parameters which of the following choices is not one of those parameters?",
+    "option_A": "Sales point as special emphasis",
+    "option_B": "Customer requirement importance",
+    "option_C": "The relationship between technical parameter and customer requirements",
+    "option_D": "Customer Requirement target",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 84,
+    "question": "As PM, what is your first step to ensure that your planned risk responses can be executed?",
+    "option_A": "Tell the project sponsor about them",
+    "option_B": "Communicate them to stakeholders",
+    "option_C": "Include them in project scope",
+    "option_D": "Make a presentation about risk responses in the kick–off meeting",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 85,
+    "question": "The most important factor in project success undertaken during the initiation phase is:",
+    "option_A": "Formulating the project scope diagram",
+    "option_B": "Correctly identifying and analysing project stakeholders",
+    "option_C": "Applying lessons learned from past projects",
+    "option_D": "Setting requirements",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 86,
+    "question": "Which of the following is not a real limitation of Agile methodologies?",
+    "option_A": "Requires expert judgement to make decisions in the meetings.",
+    "option_B": "Harder to track progress compared to a predictive approach with a clear scope baseline",
+    "option_C": "The project easily runs off–track if the PM is not focussed on the correct outcomes",
+    "option_D": "Higher implementation cost than other methodologies",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 87,
+    "question": "To compare the financial benefits of large and small projects that run over quite different timescales, you should use a calculation of.",
+    "option_A": "Expected rate of return",
+    "option_B": "Earned value",
+    "option_C": "Net present value",
+    "option_D": "Payback period",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 88,
+    "question": "To avoid contractual disputes, project planning work must include careful definition of the:",
+    "option_A": "EVM earning rules",
+    "option_B": "Risk management processes",
+    "option_C": "Change authorization procedures",
+    "option_D": "Project network diagram",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 89,
+    "question": "A Risk Breakdown structure is used to help:",
+    "option_A": "Identify risks",
+    "option_B": "Quantitative risk analysis",
+    "option_C": "Gather data on risks",
+    "option_D": "Risk probability analysis",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 90,
+    "question": "Which is not a reason for the PM to openly discuss \"bad news' with the key stakeholders at the earliest possible opportunity?",
+    "option_A": "Rectify issues before it becomes too late",
+    "option_B": "To prioritize the expectations of the key stakeholders",
+    "option_C": "Maximises remaining float to accommodate change",
+    "option_D": "There is still time to persuade stakeholders to approve change",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 91,
+    "question": "Which best describes the QFD approach?",
+    "option_A": "A market in approach",
+    "option_B": "A design approach that focuses on one specific design discipline at a time",
+    "option_C": "A product out approach",
+    "option_D": "Translates technical parameters to customer requirements",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 92,
+    "question": "Acceptance of a deliverable by the project client or other stakeholder serves primarily to:",
+    "option_A": "Control quality in the work packages",
+    "option_B": "Engage with stakeholders",
+    "option_C": "Validate project scope",
+    "option_D": "Track progress",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 93,
+    "question": "Which is not true about user stories?",
+    "option_A": "Connects each requirement to a resource and a benefit",
+    "option_B": "Input to your Kanban tickets",
+    "option_C": "A decomposition of the epic",
+    "option_D": "Supports function point estimating",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 94,
+    "question": "What is the black swan effect?",
+    "option_A": "The likelihood of a low frequency event is not easily measured",
+    "option_B": "Risk assessment will always miss the unknown unknowns",
+    "option_C": "The biggest changes are caused by lowest probability events",
+    "option_D": "If you know the probability of an event is small it could still happen to you",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 95,
+    "question": "Which of the following will be less effective as an indicator of cohesive team effectiveness?",
+    "option_A": "Progress in skills development among the team",
+    "option_B": "Extent of information sharing between team members",
+    "option_C": "Completed RACI chart",
+    "option_D": "Team member turnover rate",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 96,
+    "question": "What design phase has the highest impact on the product lifetime performance?",
+    "option_A": "Detail",
+    "option_B": "Testing",
+    "option_C": "Verification",
+    "option_D": "Conceptual",
+    "option_E": "",
+    "answer": "D",
+    "note": "---\n\n### 题库 3 (共47题)\n[cite_start][cite: 3]",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 97,
+    "question": "During Project Execution, a role of a PM that relies least upon “People Skills” would be:",
+    "option_A": "Negotiating Project changes",
+    "option_B": "Monitoring Project progress",
+    "option_C": "Developing the Project Team",
+    "option_D": "Resolving issues arising from PMP non–conformance",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 98,
+    "question": "A PM should not agree to a proposed change until?",
+    "option_A": "the change is removed from the critical path",
+    "option_B": "its full effect on project priorities has been determined and communicate to relevant stakeholders",
+    "option_C": "the sponsor accepts all risks associated with the change",
+    "option_D": "the customer agrees to pay for all associated costs",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 99,
+    "question": "A correct statement on a work package within a WBS is:",
+    "option_A": "Activities under each Work Package form the lowest level of the WBS",
+    "option_B": "Work Packages form the lowest level of the WBS",
+    "option_C": "Different WPs within a WBS may duplicate parts of project scope",
+    "option_D": "Delivery of a single WP needs to be managed and controlled by several people",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 100,
+    "question": "The aim of a portfolio management system is to:",
+    "option_A": "align and prioritise projects with management requirements",
+    "option_B": "align and prioritise projects with government regulations",
+    "option_C": "align and prioritise projects with market requirements",
+    "option_D": "align and prioritise projects with organisational strategic goals",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 101,
+    "question": "During the Closure lifecycle phase, the PM would need to:",
+    "option_A": "Elicit requirements",
+    "option_B": "Develop the team",
+    "option_C": "360 Degree Review of project staff performance",
+    "option_D": "Undertake stakeholder analysis",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 102,
+    "question": "What does the word 'waste' mean in the context of project management",
+    "option_A": "Getting rid of garbage",
+    "option_B": "Spending extravagantly",
+    "option_C": "Expense/effort expended into an unusable item",
+    "option_D": "Any action that does not add value to the customer",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 103,
+    "question": "Activities are used to:",
+    "option_A": "assist in cost & duration estimation of individual Work Packages in the WBS",
+    "option_B": "define Hierarchy in a WBS",
+    "option_C": "define the bottom level of the WBS",
+    "option_D": "define Scope in a WBS",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 104,
+    "question": "Which of the following is a barrier to organisational learning from post project reviews:",
+    "option_A": "including team evaluations in review",
+    "option_B": "including individual evaluations in review",
+    "option_C": "getting 360 Degree feedback",
+    "option_D": "Assigning blame for poor performance to specific team members",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 105,
+    "question": "You're working on an agile project team and notice the team has unclear work assignments and work is often done in a haphazard, uncoordinated way, which means the deliverables arrive in the wrong order. Which of the following is most appropriate to overcome this challenge?",
+    "option_A": "Consider Sprint Burndown charts",
+    "option_B": "Consider Kanban boards",
+    "option_C": "Consider Defect Trend charts",
+    "option_D": "Organise a working group to align values, principles, and working agreements",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 106,
+    "question": "As PM, what is your first step to ensure that your planned risk responses will be costed and scheduled?",
+    "option_A": "Gain project sponsor approval for responses",
+    "option_B": "Gain Management Approval for responses",
+    "option_C": "Include them in Communications Plan",
+    "option_D": "Include them in project scope",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 107,
+    "question": "Management Reserves are?",
+    "option_A": "created prior to establishing Budget Reserves",
+    "option_B": "funds used to cover unforeseen risks",
+    "option_C": "funds used to cover identified Responses for specific Risks",
+    "option_D": "to fund any and all risks that may arises",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 108,
+    "question": "Which of the following is not a well–defined risk?",
+    "option_A": "Estimating Inaccuracy Risks",
+    "option_B": "Delay to pouring concrete foundations due to heavy rain",
+    "option_C": "Cost variation risk from unhedged Foreign Exchange exposure",
+    "option_D": "Foundation Design risk associated with uncertain ground Geotechnical conditions",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 109,
+    "question": "A variable price procurement contract can be useful to:",
+    "option_A": "Ensure any change to scope is funded by supplier",
+    "option_B": "Share opportunity associated with controlling costs with the supplier",
+    "option_C": "Reduce overhead costs",
+    "option_D": "Transfer risks associated with controlling costs to the customer",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 110,
+    "question": "Earned Value is:",
+    "option_A": "Percent complete multiplied by planned value",
+    "option_B": "A good indicator of scope creep",
+    "option_C": "The aggregate of all expenditure incurred to date",
+    "option_D": "The amount of expenditure forecast in the time phased baseline budget",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 111,
+    "question": "A Mitigating Response to a Risk involves:",
+    "option_A": "Paying a premium to pass the risk to another party",
+    "option_B": "Taking action to reduce risk’s probability of occurrence and/or impact",
+    "option_C": "Changing the Plan to remove the risk or condition",
+    "option_D": "Making a conscious decision to accept the risk",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 112,
+    "question": "Who manages the project budget in a Functional structure?",
+    "option_A": "The Functional Manager(s)",
+    "option_B": "The Organisation's Chief Financial Officer",
+    "option_C": "A mixture of Functional Manager and Project Manager",
+    "option_D": "The Project Manager",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 113,
+    "question": "What of the following is NOT a difference between a WP and an activity?",
+    "option_A": "Work packages are part of the WBS; Activities are not",
+    "option_B": "Activities always have a lower cost than Work Packages",
+    "option_C": "An activity cannot be handed over to a stakeholder, a WP can be handed over to a stakeholder",
+    "option_D": "Activities are actions that combine to form a Work Package",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 114,
+    "question": "Which is not always a characteristic of the critical path?",
+    "option_A": "Revealed by forward and backward pass calculation through network diagram",
+    "option_B": "Constituent activities can delay project completion",
+    "option_C": "Has zero float during project execution",
+    "option_D": "Longest path through the network",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 115,
+    "question": "Which is not an advantage of adopting a functional organisation structure over a strong matrix project organisation?",
+    "option_A": "Building professional relationships in an enduring team",
+    "option_B": "Nurturing of engineering knowledge in the organisation",
+    "option_C": "Ability to easily convene cross–functional teams",
+    "option_D": "Inherent technical oversight of engineering decisions",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 116,
+    "question": "In an agile team, which of the following are generally completed over multiple days?",
+    "option_A": "Epics",
+    "option_B": "Goals",
+    "option_C": "User stories",
+    "option_D": "Tasks",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 117,
+    "question": "Which of the following does not affect the quality of estimates?",
+    "option_A": "Project Complexity",
+    "option_B": "Risk Analysis",
+    "option_C": "Organisational Bias",
+    "option_D": "Optimism Bias",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 118,
+    "question": "Actual Cost is a measure of:",
+    "option_A": "The amount of budget surplus or deficit at a given time",
+    "option_B": "Cost performance",
+    "option_C": "Authorised budget assigned to scheduled work",
+    "option_D": "The realised cost incurred for the work performed",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 119,
+    "question": "Which of the following calculation methods is most appropriate for assessing the economics of two large projects competing for funding from a limited pool of private sector investment funds:",
+    "option_A": "Net present value",
+    "option_B": "Earned value",
+    "option_C": "Payback period",
+    "option_D": "Expected rate of return",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 120,
+    "question": "Which of these formulae connected with earned value management is wrong?",
+    "option_A": "CV=EV–AC",
+    "option_B": "SV=AC–EV",
+    "option_C": "EAC=AC+ETC",
+    "option_D": "CPI = EV/AV",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 121,
+    "question": "The most important factor in project success undertaken during the closure phase is:",
+    "option_A": "Closing Accounts and Ensuring Payments",
+    "option_B": "Managing project stakeholders",
+    "option_C": "Formulating the WBS diagram",
+    "option_D": "Applying lessons learned from past projects",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 122,
+    "question": "Main reason to adopt Agile practices is",
+    "option_A": "Long term strategic planning",
+    "option_B": "Faster product delivery adjusted to changing customer needs",
+    "option_C": "Competitive edge",
+    "option_D": "Solve siloes between business & IT",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 123,
+    "question": "Activities on the Critical Path Method in a network diagram have:",
+    "option_A": "Zero Finish Slack",
+    "option_B": "Zero Start Slack",
+    "option_C": "Zero Duration",
+    "option_D": "Always Merge Activities",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 124,
+    "question": "Expediting is part of:",
+    "option_A": "Risk Management",
+    "option_B": "Quality Management",
+    "option_C": "Procurement Management",
+    "option_D": "Resource Management",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 125,
+    "question": "Which activity is part of the strategic management process?",
+    "option_A": "Define the Organisational Culture",
+    "option_B": "Define the organisational structure",
+    "option_C": "Review Project Outcomes for Lessons Learnt",
+    "option_D": "Define the organisational mission statement",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 126,
+    "question": "In a Network Diagram, Free Slack is?",
+    "option_A": "Shared amongst activities along a path",
+    "option_B": "Shared amongst Merge Activities",
+    "option_C": "Shared amongst Burst Activities",
+    "option_D": "Owned by a single activity",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 127,
+    "question": "Range Estimating is part of what?",
+    "option_A": "Top–Down estimating",
+    "option_B": "Function Point estimating",
+    "option_C": "Consensus Method estimating",
+    "option_D": "Bottom–Up estimating",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 128,
+    "question": "Re–baselining a project under EV Analysis indicates that:",
+    "option_A": "you are comparing new project parameters against the original schedule",
+    "option_B": "Management accept consequent changes to project profitability",
+    "option_C": "the original plan’s budget and schedule outcomes are still achievable",
+    "option_D": "you are comparing new project parameters against the original budget",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 129,
+    "question": "All of the following are examples of PMBOK Knowledge Areas except for which one?",
+    "option_A": "Project Communications Management",
+    "option_B": "Project Risk Management",
+    "option_C": "Project Resources Management",
+    "option_D": "Project Requirements Management",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 130,
+    "question": "Examples of Agile include",
+    "option_A": "Scrum, Kanban and Design Thinking",
+    "option_B": "Crystal, Scrum and MG Taylor",
+    "option_C": "Human Centred Design, Lean development and Kanban",
+    "option_D": "Lean development, Kanban and Scrum",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 131,
+    "question": "Which of the following is a technique used in Bottom–Up estimating?",
+    "option_A": "Template Method",
+    "option_B": "Ratio Method",
+    "option_C": "Consensus Method",
+    "option_D": "Apportionment Method",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 132,
+    "question": "Which is a project?",
+    "option_A": "Managing global logistical services",
+    "option_B": "Running a concrete factory",
+    "option_C": "Merging two divisions in a company",
+    "option_D": "Manufacturing ice cream",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 133,
+    "question": "Which of the following is NOT part of Project integration management:",
+    "option_A": "Closing a Project",
+    "option_B": "Developing Project Charter",
+    "option_C": "Establishing a Communications Plan",
+    "option_D": "Monitoring Project Work",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 134,
+    "question": "What does Kanban mean in the context of project management",
+    "option_A": "A visual tool to manage projects",
+    "option_B": "A project ticket",
+    "option_C": "A type of Japanese pagoda",
+    "option_D": "A project element",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 135,
+    "question": "Risk response strategies should be...",
+    "option_A": "designed to have no effect on the schedule",
+    "option_B": "the subject of a change request to be approved by steering committee",
+    "option_C": "added to the project scope",
+    "option_D": "excluded from the project budget",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 136,
+    "question": "The PM will have the greatest influence over:",
+    "option_A": "The project profit (or loss) level",
+    "option_B": "Regulations to be followed",
+    "option_C": "Project costs",
+    "option_D": "Project revenues",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 137,
+    "question": "I am the PM on a large IT project to improve Government payments delivery, a politically sensitive project that will be under significant public scrutiny. I will most likely need to train and improve my:",
+    "option_A": "political skills",
+    "option_B": "knowledge of Communication technology",
+    "option_C": "Communications and Reporting skills",
+    "option_D": "knowledge of Government policies",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 138,
+    "question": "Which of the following activities is part of Project Execution?",
+    "option_A": "Forming a Risk Management Plan",
+    "option_B": "Monitoring and Controlling Costs",
+    "option_C": "Identifying Stakeholders",
+    "option_D": "Ensuring all accounts and billing is finalised",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 139,
+    "question": "Working in a complex endeavour to design a new Metro Line for Sydney, your role is to monitor and update schedule requirements, and track any changes to important milestones for all the contributing engineering organisations. You are engaged in:",
+    "option_A": "Requirements definition",
+    "option_B": "Change management",
+    "option_C": "Configuration management",
+    "option_D": "Program management",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 140,
+    "question": "Project integration management:",
+    "option_A": "cannot be delegated or transferred by the PM",
+    "option_B": "can be delegated or transferred by the PM",
+    "option_C": "should be carried out by the whole project team",
+    "option_D": "should be carried out during the Project Initiation Phase",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 141,
+    "question": "An example of a project change initiated by inadequately defined stakeholder requirement definition would be:",
+    "option_A": "Changes to scope due to quality issues needing rectification",
+    "option_B": "Changes to scope due to differences found in assumed vs actual environmental conditions",
+    "option_C": "Changes in schedule from delayed deliveries",
+    "option_D": "Changes in scope due to performance issues",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 142,
+    "question": "Which of the following activities forms part of project initiation?",
+    "option_A": "Committing financial resources",
+    "option_B": "Determine budget",
+    "option_C": "Define activities",
+    "option_D": "Plan risk management",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 143,
+    "question": "Change authorisation procedures to avoid contractual disputes, should be agreed to in:",
+    "option_A": "The Project Planning phase",
+    "option_B": "The Project Closure phase",
+    "option_C": "The Project Execution phase",
+    "option_D": "The Project Initiation phase",
+    "option_E": "",
+    "answer": "D",
+    "note": "---\n\n### 题库 4 (共33题)\n[cite_start][cite: 4]",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 144,
+    "question": "Which choice does not describe a purpose for making a prototype in the product development process?",
+    "option_A": "System architecture design",
+    "option_B": "Time management",
+    "option_C": "User interface design",
+    "option_D": "Communication",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 145,
+    "question": "A project's WBS and OBS can be combined to",
+    "option_A": "Identify resource requirements",
+    "option_B": "Identify risks",
+    "option_C": "Create a Gantt chart",
+    "option_D": "Create a cost account structure",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 146,
+    "question": "Which of the following tasks is likely to require the highest level of disciplinary experience and knowledge?",
+    "option_A": "Justify your project plan to the stakeholders.",
+    "option_B": "Evaluate someone else's project management plan",
+    "option_C": "Apply project management techniques",
+    "option_D": "Measure project progress",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 147,
+    "question": "List the one initiating process in Project Integration Management",
+    "option_A": "Identify resource requirements",
+    "option_B": "Prepare business case",
+    "option_C": "Develop project charter",
+    "option_D": "Develop Project Management Plan",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 148,
+    "question": "The backward pass calculation through a project network diagram calculates:",
+    "option_A": "The critical path",
+    "option_B": "The late start and late finish date for each activity",
+    "option_C": "The earliest start and latest finish date of each activity",
+    "option_D": "The earliest start and earliest finish date of each activity",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 149,
+    "question": "CPI greater than one shows that:",
+    "option_A": "More value has been delivered than expected.",
+    "option_B": "The project is running ahead of schedule.",
+    "option_C": "The project is running behind schedule.",
+    "option_D": "The project is over budget.",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 150,
+    "question": "An example of a functional, mandatory product requirement for an industrial control system could be:",
+    "option_A": "The vendor shall provide documentation supporting the failure rate calculations for the control system",
+    "option_B": "The control system shall maintain a log of all user interactions for the preceding 10 years.",
+    "option_C": "The control system should enable operators to select the desired actuator",
+    "option_D": "The control system shall perform with an interlock error probability of 1 in 10,000 per annum",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 151,
+    "question": "The reason for holding regular retrospectives is:",
+    "option_A": "It gives management information to use in team members’ performance reviews",
+    "option_B": "It corrects deviation from the process which the team has been following",
+    "option_C": "It allows the team to take a welcome break from work",
+    "option_D": "It allows learning which can be used to improve team performance during the project",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 152,
+    "question": "Which of the following did not contribute to engineering failures ultimately leading to Boeing 737 Max air crashes?",
+    "option_A": "Increasing drive for profit causing accelerated schedules",
+    "option_B": "Planning inefficiencies introduced as a result of projectized teams",
+    "option_C": "Reduction in engineering knowledge in project teams",
+    "option_D": "Erosion of authority for functional heads in making important engineering decisions.",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 153,
+    "question": "CPI greater than one shows that:",
+    "option_A": "The project is running behind schedule",
+    "option_B": "The project is over budget.",
+    "option_C": "More value has been delivered than expected.",
+    "option_D": "The project is running ahead of schedule.",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 154,
+    "question": "Who is responsible for prioritising the product backlog?",
+    "option_A": "Lead developer",
+    "option_B": "Product owner",
+    "option_C": "Project manager",
+    "option_D": "Tester",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 155,
+    "question": "Which of the following is less likely to take place during the project execution phase?",
+    "option_A": "Most resources are expended",
+    "option_B": "PM negotiates and manages change",
+    "option_C": "PM builds relationships",
+    "option_D": "PM classifies stakeholders",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 156,
+    "question": "An indication for selecting ERR as a project evaluation tool, would be:",
+    "option_A": "Working in a large publicly funded organisation",
+    "option_B": "Looking for a quick estimate of project priority",
+    "option_C": "Where the organisation's projects compete for a limited pool of investment",
+    "option_D": "When we need to assess the time–variable value of money",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 157,
+    "question": "Milestones...",
+    "option_A": "Are useful for communication purposes because they are easily understood.",
+    "option_B": "Provide a good basis for project scheduling.",
+    "option_C": "Are the basis of the project network diagram.",
+    "option_D": "Should not be associated with deliverables.",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 158,
+    "question": "Earned Value (EV) Analysis is",
+    "option_A": "Revenue management technique",
+    "option_B": "Profit management technique",
+    "option_C": "A scope management technique",
+    "option_D": "Cost management technique",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 159,
+    "question": "Once all stakeholders have been analysed in terms of their requirements and expectations, a next step would be to:",
+    "option_A": "Identify the stakeholders",
+    "option_B": "Formulate a plan to engage with each stakeholder",
+    "option_C": "Convene a meeting of all stakeholders and ask them for their views on the project",
+    "option_D": "Plan how to prioritise the needs of the largest number of stakeholders",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 160,
+    "question": "In terms of the way it delivers scope, an Agile project lifecycle:",
+    "option_A": "Is incremental",
+    "option_B": "Minimises planning",
+    "option_C": "Is iterative",
+    "option_D": "Is incremental and iterative",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 161,
+    "question": "Which of the following is not a purpose of the project charter document?",
+    "option_A": "Aligning project work with organisational strategy",
+    "option_B": "Identifying the project manager",
+    "option_C": "Defining detailed scope",
+    "option_D": "Providing authority to the project manager",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 162,
+    "question": "Which one of the following is used as an input to the project charter?",
+    "option_A": "Project Management Plan.",
+    "option_B": "Cost Management Plan",
+    "option_C": "Business Plan Documents",
+    "option_D": "Assumption Log",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 163,
+    "question": "In a project that is running over budget, you might bring it back on track by:",
+    "option_A": "reducing the cost performance index to date",
+    "option_B": "increasing the cost performance index to date",
+    "option_C": "reducing the forecast cost variance at completion",
+    "option_D": "increasing the forecast cost variance at completion",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 164,
+    "question": "Crashing a schedule helps you to:",
+    "option_A": "Reduce duration without changing the network diagram",
+    "option_B": "Modify the network diagram in order to compress the duration.",
+    "option_C": "Accelerate progress, while being mindful that you will increase scheduling risks",
+    "option_D": "Reduce costs but increase duration",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 165,
+    "question": "Reasons for selecting top–down estimating could be",
+    "option_A": "You are working under a fixed–price contract",
+    "option_B": "Unstable scope and high uncertainty",
+    "option_C": "The customer has asked for pricing details",
+    "option_D": "Cost is crucial",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 166,
+    "question": "Prototyping is:",
+    "option_A": "A relatively low–cost strategy to take advantage of prior knowledge and experience",
+    "option_B": "A relatively high–cost strategy for eliciting requirements under an iterative PM approach",
+    "option_C": "useful way to expedite complex deliverables",
+    "option_D": "A quick way to reduce risk in an Agile PM approach",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 167,
+    "question": "Looking at a project that EV analysis shows has an SPI = 1.07 would allow you to conclude:",
+    "option_A": "The project is ahead of schedule and is forecast to finish ahead of schedule",
+    "option_B": "The project is ahead of schedule, but would require Gantt chart analysis to forecast its completion date",
+    "option_C": "The project is under budget and is forecast to finish under budget",
+    "option_D": "The project is under budget and ahead of schedule",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 168,
+    "question": "In the content of risk response development, using fixed–price contracts to complete part of the project is:",
+    "option_A": "Retaining risk",
+    "option_B": "Transferring risk",
+    "option_C": "Mitigating risk",
+    "option_D": "Avoiding risk",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 169,
+    "question": "The project's cost baseline does not include funding for:",
+    "option_A": "Team development and entertainment",
+    "option_B": "Authoring project documents",
+    "option_C": "Changes to scope approved by the steering committee",
+    "option_D": "Fixing shortcomings in the quality of deliverables",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 170,
+    "question": "Two advantages of fast tracking a schedule are:",
+    "option_A": "Schedule compression, without increasing technical risk",
+    "option_B": "Less critical paths and improved risk profile",
+    "option_C": "Shortened critical path, without increasing resources",
+    "option_D": "Reduced costs and reduction in schedule sensitivity",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 171,
+    "question": "EAC = BAC/CPI means",
+    "option_A": "Remaining work will be executed as planned in the baseline",
+    "option_B": "Remaining work will be executed at current CPI",
+    "option_C": "this formula is wrong.",
+    "option_D": "Budget at completion is the sum of all planned value",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 172,
+    "question": "What is the most commonly applied matrix in QFD?",
+    "option_A": "Interaction matrix",
+    "option_B": "Voice of customers",
+    "option_C": "House of Quality",
+    "option_D": "Technical competitive voice of engineers",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 173,
+    "question": "If you are asked to join a panel of experts, are sent questionnaires to fill in, and are asked to comment on the responses of other people to the questionnaire, then you are likely participating it",
+    "option_A": "Chatham house rules",
+    "option_B": "Delphi method",
+    "option_C": "Program valuation and Review Technique",
+    "option_D": "Apportionment method",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 174,
+    "question": "In customer funded project changes, a potential downside for the customer is:",
+    "option_A": "The change can raise disputes",
+    "option_B": "The supplier will have the negotiating power with respect to price/schedule/scope",
+    "option_C": "The change may be disruptive to the management of the project",
+    "option_D": "The change can cause reputational damage to the customer",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 175,
+    "question": "What diagram is used for identifying root causes of a problem?",
+    "option_A": "Histogram",
+    "option_B": "Flowchart",
+    "option_C": "Cause and effect diagram",
+    "option_D": "Affinity diagram.",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 176,
+    "question": "An Organisational Structure where the Project Manager's Authority is Low to Moderate and the Project Manager has no authority over the budget would be classed as",
+    "option_A": "Strong Matrix",
+    "option_B": "Weak matrix",
+    "option_C": "Functional",
+    "option_D": "Balanced matrix",
+    "option_E": "",
+    "answer": "B",
+    "note": "---\n\n### 题库 5 (共24题)\n[cite_start][cite: 5]",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 177,
+    "question": "Project reserve budget:",
+    "option_A": "Is held by the steering committee (or higher management) to fund unexpected costs",
+    "option_B": "Is held by the PM to fund unexpected costs",
+    "option_C": "Is held by the PM as funding for the risk response strategies",
+    "option_D": "Is held by the project sponsor to fund additional costs related to the project, but not included in the budget",
+    "option_E": "Is unnecessary in most projects",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 178,
+    "question": "Activities that can take place at the same time are termed",
+    "option_A": "parallel activities",
+    "option_B": "critical path",
+    "option_C": "burst activity",
+    "option_D": "merge activity",
+    "option_E": "independent activity",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 179,
+    "question": "What statement about project integration is false?",
+    "option_A": "It is the practices and processes to ensure that the various parts of a project are combined and coordinated effectively",
+    "option_B": "Requires an iterative approach to developing the PM plan",
+    "option_C": "Is one of the important functions of the project charter",
+    "option_D": "Project change management is not part of project integration management",
+    "option_E": "Project Closure is part of project integration management",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 180,
+    "question": "A feasibility study at the start of a new project is usually commissioned by:",
+    "option_A": "The contractor",
+    "option_B": "The environmental approving agency",
+    "option_C": "The government regulator",
+    "option_D": "The investor",
+    "option_E": "The sponsor",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 181,
+    "question": "Project specific complexity drivers do not include:",
+    "option_A": "Stakeholder organizational stability",
+    "option_B": "Platform/technology interactions",
+    "option_C": "Requirements maturity",
+    "option_D": "Number of subsystem interactions",
+    "option_E": "Team experience",
+    "answer": "E",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 182,
+    "question": "A project schedule starts with Task A. Which tasks are on the critical path?\n*(Table details: A=5; B follows A=6; C follows A=6; D follows A=9; E follows B=4; F follows C,D=3; G follows E,F=3)*",
+    "option_A": "Which tasks are on the critical path?\n*(Table details: A=5; B follows A=6; C follows A=6; D follows A=9; E follows B=4; F follows C,D=3; G follows E,F=3)*",
+    "option_B": "A, C, D, G",
+    "option_C": "A, B, F, G",
+    "option_D": "A, D, F, G",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 183,
+    "question": "Strategic Misrepresentation is best described as:",
+    "option_A": "A predisposition to judge future events more positively than warranted by experience.",
+    "option_B": "Deliberately portraying a range of project characteristics as more attractive for political advantage.",
+    "option_C": "Hiding true project risks from stakeholders.",
+    "option_D": "Hiding actual project costs from stakeholders.",
+    "option_E": "The main reason for inaccuracy in forecasts costs of large projects",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 184,
+    "question": "The amount of time an activity can exceed its early finish without affecting the early start date of any successor is termed",
+    "option_A": "Free slack",
+    "option_B": "Total slack",
+    "option_C": "Critical float",
+    "option_D": "Float pad",
+    "option_E": "Slip pad",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 185,
+    "question": "As an assessment item of a course on project management, making a project management plan most closely corresponds to which level(s) of Bloom's taxonomy of learning outcomes?",
+    "option_A": "Knowledge and application",
+    "option_B": "Application and evaluation",
+    "option_C": "Analysis and knowledge",
+    "option_D": "Synthesis and application",
+    "option_E": "Evaluation and synthesis",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 186,
+    "question": "Training, team development, assigning roles and responsibilities are part of",
+    "option_A": "Project resource management",
+    "option_B": "Project Leadership",
+    "option_C": "Management discipline",
+    "option_D": "Project integration management",
+    "option_E": "Project stakeholder management",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 187,
+    "question": "Phase estimating is:",
+    "option_A": "Using different estimating techniques for different project phases",
+    "option_B": "Combining detailed estimates for immediate phases with top–down estimates for more distant phases",
+    "option_C": "Using project lifecycle phases for estimating",
+    "option_D": "Using estimating for project lifecycle phases",
+    "option_E": "Using appropriate estimating techniques for phases of technology development",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 188,
+    "question": "Which is false? Measuring benefits realization:",
+    "option_A": "Is extremely difficult for engineering projects that produce a tangible outcome or capability",
+    "option_B": "Is one of the most challenging aspects of organizational change or IT services projects",
+    "option_C": "Can be facilitated by establishing project benchmarks, to measure aspects of organizational performance, during and after project delivery",
+    "option_D": "Is vital to the success of organizational change or IT services projects",
+    "option_E": "Relies on detailed stakeholder knowledge",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 189,
+    "question": "You would be unlikely to be able to obtain insurance for:",
+    "option_A": "The risk of bodily harm to employees",
+    "option_B": "Professional negligence",
+    "option_C": "Damage occurring within 10 years of completion of project resulting from latent defects in design, materials or workmanship",
+    "option_D": "A risk that is considered nearly certain",
+    "option_E": "Insuring property that you have rented from another party",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 190,
+    "question": "Fast–tracking:",
+    "option_A": "Is a strategy for schedule compression that often results in rework",
+    "option_B": "Is a good way to motive team members",
+    "option_C": "Uses increased resources to complete tasks quicker",
+    "option_D": "Is a strategy for working efficiently and reducing down–time",
+    "option_E": "Is a method for developing the network diagram and finding the critical path",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 191,
+    "question": "Defining project benefits is:",
+    "option_A": "A product of mapping project objectives to project stakeholders",
+    "option_B": "Done continuously through the project lifecycle",
+    "option_C": "Is not an input to risk identification",
+    "option_D": "The same for all stakeholders",
+    "option_E": "Not related to project success",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 192,
+    "question": "A project’s WBS and OBS can be combined to:",
+    "option_A": "Create a Gantt chart",
+    "option_B": "Identify resource requirements",
+    "option_C": "Create a cost account structure",
+    "option_D": "Identify risks",
+    "option_E": "Estimate costs",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 193,
+    "question": "A project budget report is showing our project as spending $35,000 against a budgeted amount of $40,000. Which of the following is true?",
+    "option_A": "We are spending less than we should for the project",
+    "option_B": "We are doing a good job managing the project",
+    "option_C": "We should check to see if all the bills have been paid",
+    "option_D": "We are working too slowly",
+    "option_E": "We can't be sure how the project is tracking",
+    "answer": "E",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 194,
+    "question": "Which characteristics of executing projects in a Dedicated Project Team organization structure where experienced by the Boeing company?",
+    "option_A": "In–fighting over resources, poor safety performance",
+    "option_B": "Cost overruns, loss of key staff members",
+    "option_C": "High pressure work environment, too aggressive deadlines",
+    "option_D": "Improved project delivery, sidelining resources of organizational knowledge",
+    "option_E": "Improved quality and reduced cost.",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 195,
+    "question": "Which is false? The WBS:",
+    "option_A": "Is the basis of developing project schedule and budget",
+    "option_B": "Is composed of tasks, as indicated by predominance of verbs in the descriptions",
+    "option_C": "Is decomposed to sub deliverables and work packages",
+    "option_D": "Should be decomposed to a level at which the work packages can be used to estimate time and budget",
+    "option_E": "Is one input from which to identify project risks in a systematic way",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 196,
+    "question": "A risk of ‘failing to deliver the project in time’ is a poor description of a risk because:",
+    "option_A": "It is not sufficiently descriptive",
+    "option_B": "It is measured against a project objective rather than an event",
+    "option_C": "Failing to deliver to schedule is risk that should be delegated to suppliers",
+    "option_D": "It would be hard to define what you mean by ‘deliver’",
+    "option_E": "It would be hard to avoid this risk",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 197,
+    "question": "Critical Path Networks and Gantt Charts were developed:",
+    "option_A": "During the Roman Empire",
+    "option_B": "As a result of the 1960s Space Race",
+    "option_C": "Before the advent of modern computers",
+    "option_D": "Once Project Management expanded more generally beyond engineering/IT in 1990s",
+    "option_E": "By US defence contractors",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 198,
+    "question": "EAC = BAC/CPI means",
+    "option_A": "Remaining work will be executed as planned in the baseline",
+    "option_B": "Remaining work will be executed at current CPI",
+    "option_C": "Nothing, this formula is wrong",
+    "option_D": "Estimate at completion = budget at completion / current performance index",
+    "option_E": "Budget at completion is the sum of planned value",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 199,
+    "question": "In the content of risk response development, using fixed–price contracts to complete part of the project is known as:",
+    "option_A": "Mitigating risk",
+    "option_B": "Avoiding risk",
+    "option_C": "Transferring risk",
+    "option_D": "Retaining risk",
+    "option_E": "Contingency risk",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 200,
+    "question": "In a project life cycle, the Preparation and Planning usually occurs:",
+    "option_A": "After the Purchasing phase",
+    "option_B": "Before Project Definition phase",
+    "option_C": "Before Design Phase",
+    "option_D": "After Fulfilment phase",
+    "option_E": "Throughout the project",
+    "answer": "C",
+    "note": "---\n\n### 题库 6 (共30题)\n[cite_start][cite: 6]",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 201,
+    "question": "Which of the following does not well describe the contingency reserve budget?",
+    "option_A": "Part of the cost baseline",
+    "option_B": "May be used for rework",
+    "option_C": "Normally requires change control process and approval of project sponsor to be expended",
+    "option_D": "Is for funding 'known unknowns' uncovered as a result of the risk management process",
+    "option_E": "Amount of reserve funding depends on the risks identified, and treatment for these risks",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 202,
+    "question": "A work package:",
+    "option_A": "Is at the lowest level of the WBS",
+    "option_B": "Represents a collection of tasks",
+    "option_C": "Is usually insufficiently detailed to estimate its cost",
+    "option_D": "Only ever has one task inside",
+    "option_E": "Must contain at least one task",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 203,
+    "question": "The project sponsor is not",
+    "option_A": "internal to the project executing organisation",
+    "option_B": "part of the project team",
+    "option_C": "a member of the steering committee",
+    "option_D": "a person",
+    "option_E": "a stakeholder",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 204,
+    "question": "Which of the following is an advantage of Gantt Charts over Network Analysis?",
+    "option_A": "Colourful presentation",
+    "option_B": "Showing visual complexity",
+    "option_C": "An easier basis for resource planning",
+    "option_D": "Show the logical interdependencies between tasks",
+    "option_E": "Better calculation of floats",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 205,
+    "question": "What statement about project integration is false?",
+    "option_A": "Is one of the important functions of the project charter",
+    "option_B": "Requires an iterative approach to developing the PM plan",
+    "option_C": "It is the practices and processes to ensure that the various parts of a project are combined and coordinated effectively",
+    "option_D": "Project change management is not part of project integration management",
+    "option_E": "Project Closure is part of project integration management",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 206,
+    "question": "After you have the completed the process of Collecting Requirements, as PM you are likely to find yourself working on the:",
+    "option_A": "Project budget",
+    "option_B": "Project scope statement",
+    "option_C": "WBS",
+    "option_D": "Project resource requirements",
+    "option_E": "Project schedule",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 207,
+    "question": "In estimating cost and time, reliable historical data and well–understood project parameters are essential to support:",
+    "option_A": "Top–down approaches to estimating",
+    "option_B": "Bottom–up estimates",
+    "option_C": "Consensus methods",
+    "option_D": "Bottom–up approaches to estimating",
+    "option_E": "Parametric estimates",
+    "answer": "E",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 208,
+    "question": "Milestones:",
+    "option_A": "Are not associated with deliverables.",
+    "option_B": "Are too simple to properly express a project schedule,",
+    "option_C": "Are the basis of the project network diagram.",
+    "option_D": "Are useful for communication purposes because they are easily understood.",
+    "option_E": "Provide a good basis for project scheduling.",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 209,
+    "question": "A bottom–up estimate usually is:",
+    "option_A": "Done later in the project timeline, on a comparative cost basis and requires a comprehensive WBS",
+    "option_B": "Done later in the project timeline, on an accurate cost basis and requires a comprehensive WBS",
+    "option_C": "Done earlier in the project timeline, on an accurate cost basis and requires an outline WBS.",
+    "option_D": "Done earlier in the project timeline, on a comparative cost basis and requires a comprehensive WBS",
+    "option_E": "Done earlier in the project timeline, on a comparative cost basis and does not require a comprehensive WBS",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 210,
+    "question": "Reasons for selecting top–down estimating could be:",
+    "option_A": "Cost is crucial,",
+    "option_B": "The project is large.",
+    "option_C": "Unstable scope and high uncertainty",
+    "option_D": "The customer has asked for pricing details.",
+    "option_E": "You are working under fixed–price contract.",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 211,
+    "question": "Which of the following activities forms part of project initiation?",
+    "option_A": "Monitor risks",
+    "option_B": "Identify stakeholders",
+    "option_C": "Solicit requirements",
+    "option_D": "Formulate scope",
+    "option_E": "Develop the project management plan",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 212,
+    "question": "Developing and agreeing contingency plans with the stakeholders is a strategy for",
+    "option_A": "Risk prioritisation",
+    "option_B": "Risk mitigation",
+    "option_C": "Risk avoidance",
+    "option_D": "Risk transfer",
+    "option_E": "Risk acceptance",
+    "answer": "E",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 213,
+    "question": "Which of the following does not well describe the contingency reserve budget?",
+    "option_A": "Part of the cost baseline",
+    "option_B": "May be used for rework",
+    "option_C": "Normally requires change control process and approval of project sponsor to be expended",
+    "option_D": "Is for funding 'known unknowns' uncovered as a result of the risk management process",
+    "option_E": "Amount of reserve funding depends on the risks identified, and treatment for these risks",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 214,
+    "question": "Crashing as a strategy for schedule compression:",
+    "option_A": "Relies on modifying the inter dependencies between activities",
+    "option_B": "Is a cost–effective way to accelerate progress, but increases technical risks to project delivery",
+    "option_C": "Does not automatically increase risk, but will usually cost the project more to complete the same amount of work",
+    "option_D": "Should be avoided because it increases technical risks to project delivery",
+    "option_E": "Does not really help to increase project progress",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 215,
+    "question": "A project budget report is showing our project as spending $35,000 against a budgeted amount of $40,000. Which of the following is true?",
+    "option_A": "We are spending less than we should for the project",
+    "option_B": "We can't be sure how the project is tracking",
+    "option_C": "We should check to see if all the bills have been paid",
+    "option_D": "We are working too slowly",
+    "option_E": "We are doing a good job managing the project",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 216,
+    "question": "Which of the following is less likely to take place during the project execution phase?",
+    "option_A": "Realisation of the organisations strategy and ambition",
+    "option_B": "Most resources are expended",
+    "option_C": "PM builds relationships",
+    "option_D": "PM classifies stakeholders",
+    "option_E": "PM negotiates and manages change",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 217,
+    "question": "Which is false? The WBS:",
+    "option_A": "Is one input from which to identify project risks in a systematic way",
+    "option_B": "Is decomposed to sub deliverables and work packages",
+    "option_C": "Is the basis of developing project schedule and budget",
+    "option_D": "Should be decomposed to a level at which the work packages can be used to estimate time and budget",
+    "option_E": "Is composed of tasks, as indicated by predominance of verbs in the descriptions",
+    "answer": "E",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 218,
+    "question": "You would be unlikely to be able to obtain insurance for:",
+    "option_A": "Professional negligence",
+    "option_B": "Damage occurring within 10 years of completion of project resulting from latent defects in design, materials or workmanship",
+    "option_C": "The risk of bodily harm to employees",
+    "option_D": "A risk that is considered nearly certain",
+    "option_E": "Insuring property that you have rented from another party",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 219,
+    "question": "Good risk management is...",
+    "option_A": "Subjective.",
+    "option_B": "Proactive.",
+    "option_C": "Constructive.",
+    "option_D": "Reactive.",
+    "option_E": "Active.",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 220,
+    "question": "An approved scope change request will often imply:",
+    "option_A": "Spending more of the contingency reserve budget",
+    "option_B": "No change to the scope baseline",
+    "option_C": "Spending more of the management reserve budget",
+    "option_D": "Updating the project charter",
+    "option_E": "Revising the project benefits",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 221,
+    "question": "Which of the following is part of a Project Charter?",
+    "option_A": "A detailed budget",
+    "option_B": "Description of the change management system",
+    "option_C": "Project purpose",
+    "option_D": "The critical path",
+    "option_E": "Time phased budget",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 222,
+    "question": "If you are estimating the duration of a work package using a formula that says the most likely duration is equal to one sixth the sum of best case, worst case and four times the most likely case, then you are using:",
+    "option_A": "Delphi method",
+    "option_B": "Triangular distribution",
+    "option_C": "Beta distribution",
+    "option_D": "Normal distribution",
+    "option_E": "Lognormal distribution",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 223,
+    "question": "Which of the following is a benefit of using a logical coding system for a WBS?",
+    "option_A": "Reduction in design resource requirements",
+    "option_B": "Reduction in planned project duration",
+    "option_C": "Easy retrieval of items from past project records",
+    "option_D": "Ability to carry out cost reduction exercises",
+    "option_E": "Risk reduction",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 224,
+    "question": "Which of the following is not a purpose of the project charter document?",
+    "option_A": "Authorizing the project",
+    "option_B": "Committing resources to the project",
+    "option_C": "Recording the existence of the project",
+    "option_D": "Presenting the business case",
+    "option_E": "Identifying the project manager",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 225,
+    "question": "The amount of time an activity can exceed its early finish without affecting the early start date of any successor is termed",
+    "option_A": "Free slack",
+    "option_B": "Slip pad",
+    "option_C": "Total stack",
+    "option_D": "Critical float",
+    "option_E": "Float pad",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 226,
+    "question": "Which of the following is a reason a project would close successfully?",
+    "option_A": "‘Acts of God’ such as an earthquake occurs.",
+    "option_B": "The Project Owner has run out of funds.",
+    "option_C": "The Project Owner puts project ‘on hold’ due to adverse market changes.",
+    "option_D": "Acceptance Certificates have been issued by Customer.",
+    "option_E": "Acceptance tests have been completed.",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 227,
+    "question": "Looking at a project that EV analysis shows has an SPI = 1.04 would allow you to conclude:",
+    "option_A": "The project is ahead of schedule and is forecast to finish ahead of schedule",
+    "option_B": "The project is under budget and is forecast to finish under budget",
+    "option_C": "The project is ahead of schedule, but would require Gantt chart analysis to forecast its end schedule status",
+    "option_D": "The project is under budget and ahead of schedule",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 228,
+    "question": "Compared to a risk that triggers late in the project, one that triggers early is usually:",
+    "option_A": "Less costly in terms of cost and more costly in terms of duration.",
+    "option_B": "Not significantly different in its impact.",
+    "option_C": "More costly in terms of cost and duration.",
+    "option_D": "More costly in terms of cost and less costly in terms of duration.",
+    "option_E": "Less costly in terms of cost and duration.",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 229,
+    "question": "Common mistakes encountered in drawing up a WBS do not normally include:",
+    "option_A": "Gaps in project scope.",
+    "option_B": "Duplication in scope between different parts.",
+    "option_C": "Including items in the WBS that are out of scope.",
+    "option_D": "Using mostly verbs instead of nouns.",
+    "option_E": "Listing tasks instead of deliverables.",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 230,
+    "question": "If I have written the project objectives and I am working on a stakeholder analysis, the next stage in developing my project plans is likely to be:",
+    "option_A": "Writing a scope statement",
+    "option_B": "Listing the project benefits",
+    "option_C": "Estimating cost and duration",
+    "option_D": "Charting a WBS",
+    "option_E": "Developing the risk register",
+    "answer": "B",
+    "note": "---\n\n### 题库 7 (共14题)\n[cite_start][cite: 7]",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 231,
+    "question": "Investing in training to prevent safety–related incidents would be.",
+    "option_A": "A shared risk transfer strategy.",
+    "option_B": "An active opportunity acceptance strategy.",
+    "option_C": "An active risk mitigation strategy.",
+    "option_D": "A passive risk mitigation strategy.",
+    "option_E": "An active risk transfer strategy.",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 232,
+    "question": "A funded increase in scope resulting in a change to the project baseline.",
+    "option_A": "Will increase cumulative planned value if the new work packages are behind schedule",
+    "option_B": "Will increase earned value",
+    "option_C": "Will increase the actual cost",
+    "option_D": "Will not change the overall approved budget",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 233,
+    "question": "Which of the following costs is a direct cost?",
+    "option_A": "Office consumables",
+    "option_B": "Outsourcing HR administration",
+    "option_C": "Hire of construction equipment",
+    "option_D": "Office rent",
+    "option_E": "Health insurance",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 234,
+    "question": "A benefit:",
+    "option_A": "Is rarely measurable",
+    "option_B": "Is associated with a milestone",
+    "option_C": "Is unique",
+    "option_D": "Is associated with a stakeholder",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 235,
+    "question": "Opportunity risk responses include.",
+    "option_A": "Share, Escalate, Exploit",
+    "option_B": "Exploit, Mitigate, Accept",
+    "option_C": "Share, Enhance, Transfer",
+    "option_D": "Avoid, Transfer, Mitigate",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 236,
+    "question": "What is not one of the principles of Lean and/or Kanban?",
+    "option_A": "Increase work in progress",
+    "option_B": "Reduce transportation",
+    "option_C": "Visualising the workflow",
+    "option_D": "Manage the flow",
+    "option_E": "Eliminate waiting",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 237,
+    "question": "A Work Breakdown Structure (WBS)",
+    "option_A": "Must follow the 100% rule",
+    "option_B": "Should not include documentation or regulatory approvals as sub deliverables",
+    "option_C": "Is a hierarchical decomposition of all the activities needed to complete the project",
+    "option_D": "Is a hierarchical decomposition of all resources needed to complete the project",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 238,
+    "question": "All of the following are ways the WBS helps in managing projects EXCEPT:",
+    "option_A": "As it is developed, organisational units and individuals can be assigned responsibility of work packages.",
+    "option_B": "Can be used to define communication channels.",
+    "option_C": "It provides management with information appropriate to each level",
+    "option_D": "Allows the project manager to establish the overall objective of the project.",
+    "option_E": "With cost and time estimates the WBS makes it possible to plan, schedule and budget the project.",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 239,
+    "question": "The critical path in a project network is the:",
+    "option_A": "Network path with the most difficult activities.",
+    "option_B": "Network path using the most resources.",
+    "option_C": "Shortest duration path through the network.",
+    "option_D": "Network path with the most merge activities.",
+    "option_E": "Longest duration path through the network.",
+    "answer": "E",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 240,
+    "question": "Managing risk in an agile environment should entail:",
+    "option_A": "Formulating a detailed risk management register at the start of the project and sticking to it",
+    "option_B": "Using quantitative risk management",
+    "option_C": "Formulating and re–analysing risk management strategy at each iteration",
+    "option_D": "Using qualitative risk management",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 241,
+    "question": "When determining the suitability of candidates for a project manager position, you would assess their skill sets for:",
+    "option_A": "Technical Project Management, Strategic and Business Management; and Accountancy.",
+    "option_B": "Technical Project Management, Strategic and Business Management; and Leadership.",
+    "option_C": "Accountancy, Strategic and Business Management; and Leadership.",
+    "option_D": "Technical Project Management, IT: and Leadership.",
+    "option_E": "Technical project management and leadership experience",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 242,
+    "question": "The Net Present Value method of financial analysis is best suited to projects that are.",
+    "option_A": "Longer in duration and require higher rates of return",
+    "option_B": "Longer in duration and require lower rates of return",
+    "option_C": "Long in duration, with few unknowns",
+    "option_D": "Shorter in duration and require lower rates of return",
+    "option_E": "Shorter in duration and require higher rates of return",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 243,
+    "question": "A risk of 'the project does not deliver on its requirements' is a poor description of a risk because.",
+    "option_A": "Failing to satisfy individual requirements should be transferred to suppliers.",
+    "option_B": "It is not descriptive.",
+    "option_C": "It oriented around a project objective rather than a possible event.",
+    "option_D": "It would be hard to avoid this risk.",
+    "option_E": "It would be hard to define what you mean by 'deliver'.",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 244,
+    "question": "A Project Customer and Project End User.",
+    "option_A": "Can be the same or different organisations",
+    "option_B": "Always have a contractual relationship with the contractor",
+    "option_C": "Are always the same organisation",
+    "option_D": "Are never the same organisation",
+    "option_E": "",
+    "answer": "A",
+    "note": "---\n\n### 题库 8 (共12题)\n[cite_start][cite: 4]",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 245,
+    "question": "Which of the following is an example of a Quantitative Risk Analysis.",
+    "option_A": "Failure Mode and Effect Analysis (FMEA)",
+    "option_B": "Ishikawa Fishbone diagrams",
+    "option_C": "Failure Mode Effect Criticality Analysis (FMECA)",
+    "option_D": "None of the above",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 246,
+    "question": "Which of the following has the utmost importance in defining project success?",
+    "option_A": "Strategic benefit",
+    "option_B": "Scope delivery",
+    "option_C": "Completion within allowed time",
+    "option_D": "Product quality and performance",
+    "option_E": "Budgetary compliance",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 247,
+    "question": "A Simple Gantt Chart",
+    "option_A": "Projects a simple diary plan on a time scale",
+    "option_B": "Projects a simple diary plan on a time scale with dependencies",
+    "option_C": "Is a list of individual tasks with start and end dates",
+    "option_D": "Projects a simple diary plan on a time scale with dependencies and a date cursor",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 248,
+    "question": "'Total Float' is defined as",
+    "option_A": "The residue of float available to a task after the project has started",
+    "option_B": "The sum of time delays between tasks",
+    "option_C": "the amount of float available to a task when all its preceding tasks take place at their latest possible time and all following tasks take place at their earliest possible time",
+    "option_D": "the amount of float available to a task when all its preceding tasks take place at their earliest possible time and all following tasks take place at their latest possible time",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 249,
+    "question": "If four risk response strategies are: Transfer, Avoid, Mitigate, and Escalate, then the inherently similar corresponding strategies for responding to opportunities are, respectively:",
+    "option_A": "Exploit, Avoid, Enhance, and Escalate",
+    "option_B": "Exploit, Share, Escalate, and Transfer",
+    "option_C": "Share, Exploit, Enhance, and Escalate",
+    "option_D": "Share, Exploit, Enhance, and Accept",
+    "option_E": "Exploit, Escalate, Enhance, and Avoid",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 250,
+    "question": "Which of the following is an advantage of Network Analysis over Gantt Charts?",
+    "option_A": "Drawn to Scale",
+    "option_B": "Superior Resource planning",
+    "option_C": "Shows the logical interdependencies between tasks",
+    "option_D": "A better visual representation",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 251,
+    "question": "A top–down estimate usually is",
+    "option_A": "Done late in the project life history, done on a global comparative cost basis and uses a comprehensive WBS",
+    "option_B": "Done early in the project life history, done on a global comparative cost basis and uses a comprehensive WBS",
+    "option_C": "Done early in the project life history, done on a global comparative cost basis and does not use a comprehensive WBS",
+    "option_D": "Done late in the project life history, done on a global comparative cost basis and does not use a comprehensive WBS",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 252,
+    "question": "Which of the following is unlikely to be a direct factor for project success or failure?",
+    "option_A": "Whether project communication are successful or not",
+    "option_B": "Strong safety culture in the organisation",
+    "option_C": "The technical requirements were too vague",
+    "option_D": "The project management strategy is appropriate",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 253,
+    "question": "At which step of QFD we define special emphasis for customer requirements?",
+    "option_A": "Competitive analysis",
+    "option_B": "Customer requirement (voice of customers)",
+    "option_C": "Technical comparison",
+    "option_D": "Interactions",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 254,
+    "question": "What approach can be used to validate the defined relationships (between customer requirements and technical parameters) in QFD approach?",
+    "option_A": "Voice of customers",
+    "option_B": "Voice of engineers!",
+    "option_C": "Using test data",
+    "option_D": "Defining correlation between technical parameters",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 255,
+    "question": "What choice does not describe the QFD approach?",
+    "option_A": "A market in approach",
+    "option_B": "translates customer requirement to technical requirements",
+    "option_C": "Allowing integrated thinking in a cross–functional team",
+    "option_D": "A product out approach",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 256,
+    "question": "A risk that occurs late in a project is usually:",
+    "option_A": "Less costly in terms of cost and more costly in terms of duration than one that occurs early in the project",
+    "option_B": "Less costly in terms of cost and duration than one that occurs early in the project",
+    "option_C": "More costly in terms of cost and less costly in terms of duration than one that occurs early in the project",
+    "option_D": "More costly in terms of cost and duration than one that occurs early in the project",
+    "option_E": "",
+    "answer": "D",
+    "note": "---\n\n### 题库 9 (共33题)\n[cite_start][cite: 6]",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 257,
+    "question": "Which of the following is true of an Activity compared to a WP?",
+    "option_A": "An Activity is generally defined using a verb whereas WP as nouns.",
+    "option_B": "An Activity is greater than a WP in financial value.",
+    "option_C": "An Activity is the responsibility of a team of people",
+    "option_D": "Activities have more complex scheduling interdependencies than WPs",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 258,
+    "question": "Which of the following is a correct value of the Agile Manifesto?",
+    "option_A": "Working Product over comprehensive Documentation",
+    "option_B": "Contract Negotiation over Customer Collaboration",
+    "option_C": "Following a Plan over Responding to Change",
+    "option_D": "Process and Tolls over individuals and Interactions",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 259,
+    "question": "Which is not true about Kanban method?",
+    "option_A": "Maximises work in progress",
+    "option_B": "A highly visual Agile framework",
+    "option_C": "Works on prioritised tasks as they arrive",
+    "option_D": "Encourages continuous flow of value to customer",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 260,
+    "question": "Hybrid Agile/Waterfall project management would be most appropriate for which of the following?",
+    "option_A": "A Project for a novel fighter aircraft.",
+    "option_B": "An R&D project to development a new drug",
+    "option_C": "A project to build a new car factory",
+    "option_D": "A Project to build a new IT system",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 261,
+    "question": "Which is NOT an activity making up the strategic management process?",
+    "option_A": "Define the organisational structure",
+    "option_B": "Define the organisational mission statement",
+    "option_C": "Set objectives to achieve strategies",
+    "option_D": "Implement strategies through projects",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 262,
+    "question": "The most important factor in project success undertaken during the initiation phase is:",
+    "option_A": "Develop project charter and identify stakeholders",
+    "option_B": "Applying lessons learned from past projects",
+    "option_C": "Setting requirements",
+    "option_D": "Formulating the project scope diagram",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 263,
+    "question": "Including risk response strategies in project scope...",
+    "option_A": "Ensures that these risk responses can be executed",
+    "option_B": "Is a change request that should be approved by steering committee",
+    "option_C": "Reduces project budget",
+    "option_D": "Has no effect on the schedule",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 264,
+    "question": "Which of the following would you NOT see in a correctly constructed WBS:",
+    "option_A": "Process",
+    "option_B": "Scope",
+    "option_C": "Hierarchy",
+    "option_D": "Sub–deliverables",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 265,
+    "question": "When creating a WBS for a Scope, which of the following should you avoid doing?:",
+    "option_A": "Have WPs that duplicate part of the Scope",
+    "option_B": "Delivery of a single WP can be managed and controlled by one person",
+    "option_C": "Allowing a few WPs to contain most of project scope, as measured by cost",
+    "option_D": "Break the Scope down by Component Areas",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 266,
+    "question": "All of the following are examples of formal project management Knowledge Areas except for which one?",
+    "option_A": "Project Stakeholder Management",
+    "option_B": "Project Procurement Management",
+    "option_C": "Project Integration Management",
+    "option_D": "Project Requirements Management",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 267,
+    "question": "A key responsibility of the PM that cannot be delegated or transferred is:",
+    "option_A": "Developing the team",
+    "option_B": "Safety risk assessment",
+    "option_C": "Formulating project scope",
+    "option_D": "Project integration management",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 268,
+    "question": "If I am developing the project charter, monitoring project work, or closing a project, I am engaged in",
+    "option_A": "Project integration management",
+    "option_B": "Configuration management",
+    "option_C": "Stakeholder management",
+    "option_D": "Project scope management",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 269,
+    "question": "A Risk Breakdown structure is used to help:",
+    "option_A": "Identify risks",
+    "option_B": "Quantitative risk analysis",
+    "option_C": "Gather data on risks",
+    "option_D": "Risk probability analysis",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 270,
+    "question": "Crashing as a strategy for schedule compression:",
+    "option_A": "Relies on modifying the inter dependencies between activities",
+    "option_B": "Is a cost–effective way to accelerate progress, but increases technical risks to project delivery",
+    "option_C": "Does not automatically increase risk, but will usually cost the project more to complete the same amount of work",
+    "option_D": "Should be avoided because it increases technical risks to project delivery",
+    "option_E": "Does not really help to increase project progress",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 271,
+    "question": "A project budget report is showing our project as spending $35,000 against a budgeted amount of $40,000. Which of the following is true?",
+    "option_A": "We are spending less than we should for the project",
+    "option_B": "We can't be sure how the project is tracking",
+    "option_C": "We should check to see if all the bills have been paid",
+    "option_D": "We are working too slowly",
+    "option_E": "We are doing a good job managing the project",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 272,
+    "question": "Which of the following is less likely to take place during the project execution phase?",
+    "option_A": "Realisation of the organisations strategy and ambition",
+    "option_B": "Most resources are expended",
+    "option_C": "PM builds relationships",
+    "option_D": "PM classifies stakeholders",
+    "option_E": "PM negotiates and manages change",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 273,
+    "question": "Which is false? The WBS:",
+    "option_A": "Is one input from which to identify project risks in a systematic way",
+    "option_B": "Is decomposed to sub deliverables and work packages",
+    "option_C": "Is the basis of developing project schedule and budget",
+    "option_D": "Should be decomposed to a level at which the work packages can be used to estimate time and budget",
+    "option_E": "Is composed of tasks, as indicated by predominance of verbs in the descriptions",
+    "answer": "E",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 274,
+    "question": "You would be unlikely to be able to obtain insurance for:",
+    "option_A": "Professional negligence",
+    "option_B": "Damage occurring within 10 years of completion of project resulting from latent defects in design, materials or workmanship",
+    "option_C": "The risk of bodily harm to employees",
+    "option_D": "A risk that is considered nearly certain",
+    "option_E": "Insuring property that you have rented from another party",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 275,
+    "question": "Analogous estimating is also known as what?",
+    "option_A": "Parametric estimating",
+    "option_B": "Top–down estimating",
+    "option_C": "Bottom–up estimating",
+    "option_D": "Three–point estimating",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 276,
+    "question": "Optimism bias...",
+    "option_A": "Is when a project team actively seeks low–cost estimates to improve the forecast ROI of their proposal",
+    "option_B": "Allows the forecaster to estimate likely cost overruns based on observed overruns in a set of comparable projects",
+    "option_C": "Cannot practically be avoided in human decisions",
+    "option_D": "Describes the tendency of planners to have high confidence in a project plan that is easily visualised",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 277,
+    "question": "The project manager's most influential stakeholder is the:",
+    "option_A": "Project director",
+    "option_B": "Client",
+    "option_C": "Program manager",
+    "option_D": "Project sponsor",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 278,
+    "question": "To compare the financial benefits of large and small projects that run over quite different timescales, you should use a calculation of.",
+    "option_A": "Expected rate of return",
+    "option_B": "Earned value",
+    "option_C": "Net present value",
+    "option_D": "Payback period",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 279,
+    "question": "Review organisational mission statement, set objectives, and implement strategies through projects, are part of the",
+    "option_A": "Program management",
+    "option_B": "Project management process",
+    "option_C": "Earned value management",
+    "option_D": "Strategic management process",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 280,
+    "question": "Who manages the project budget in a strong matrix structure?",
+    "option_A": "The Project Manager",
+    "option_B": "The Organisation's Chief Financial Officer",
+    "option_C": "The Functional Manager",
+    "option_D": "A mixture of Functional Manager and Project Manager",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 281,
+    "question": "A Project Manager needs which of the following skills to competently manage a project?",
+    "option_A": "Technical Project Management skills",
+    "option_B": "Technical Project Management Skills, Leadership skills: Strategic and Business management skills",
+    "option_C": "Technical Project Management skills; Leadership skills; Engineering background",
+    "option_D": "Technical Project Management skills; Strategic and Business management skills",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 282,
+    "question": "Which is not true about user stories?",
+    "option_A": "Connects each requirement to a resource and a benefit",
+    "option_B": "Input to your Kanban tickets",
+    "option_C": "A decomposition of the epic",
+    "option_D": "Supports function point estimating",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 283,
+    "question": "Which of the following is less likely to be a challenge of using an Agile project management approach?",
+    "option_A": "Higher overall cost of delivery compared to a more predictive management approach",
+    "option_B": "Ensuring quality in the end product",
+    "option_C": "A need for sustained expert attention to manage the project.",
+    "option_D": "It is easy for the project to go off track",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 284,
+    "question": "A list of features, updates and modifications requested by the customer is the",
+    "option_A": "Sprint",
+    "option_B": "MVP",
+    "option_C": "Throughput",
+    "option_D": "Backlog",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 285,
+    "question": "Projects are the principal way that an organisation...",
+    "option_A": "Raises efficiency",
+    "option_B": "Increases market share",
+    "option_C": "Implements change",
+    "option_D": "Improves quality",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 286,
+    "question": "Which is a project?",
+    "option_A": "Managing the human resources division of a consulting company",
+    "option_B": "The work of an air traffic control team directing aircraft",
+    "option_C": "Assembling electric cars in a factory",
+    "option_D": "Remediating an old industrial site",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 287,
+    "question": "During the Planning lifecycle phase, the PM would need to:",
+    "option_A": "Appoint a PM.",
+    "option_B": "Identify the team.",
+    "option_C": "Identify stakeholders.",
+    "option_D": "Elicit requirements",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 288,
+    "question": "Working in a complex program to design a new electrical grid for New South Wales, your role is to monitor and update technical requirements, and track any changes to project scope and test plans across all the contributing engineering organisations. You are engaged in:",
+    "option_A": "Program management",
+    "option_B": "Configuration management",
+    "option_C": "Requirements definition",
+    "option_D": "Change management",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 289,
+    "question": "Which of the following activities forms part of project initiation?",
+    "option_A": "Monitor risks",
+    "option_B": "Identify stakeholders",
+    "option_C": "Solicit requirements",
+    "option_D": "Formulate scope",
+    "option_E": "Develop the project management plan",
+    "answer": "B",
+    "note": "---\n\n### 题库 10 (共50题)\n[cite_start][cite: 7]",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 290,
+    "question": "Insurance is a way of:",
+    "option_A": "Mitigating Risk.",
+    "option_B": "Transferring Risk.",
+    "option_C": "Accepting Risk.",
+    "option_D": "Avoiding risk.",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 291,
+    "question": "An approved scope change request will often imply:",
+    "option_A": "Revising the project benefits",
+    "option_B": "Updating the project charter",
+    "option_C": "No change to the scope baseline",
+    "option_D": "Spending more of the management reserve budget",
+    "option_E": "Spending more of the contingency reserve budget",
+    "answer": "E",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 292,
+    "question": "What can the PM not delegate?",
+    "option_A": "Schedule management",
+    "option_B": "Cost management",
+    "option_C": "Risk management",
+    "option_D": "Integration management",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 293,
+    "question": "Which of the following is less likely to take place during the project execution phase?",
+    "option_A": "PM builds relationships",
+    "option_B": "PM negotiates and manages change",
+    "option_C": "Most resources are expended",
+    "option_D": "PM classifies stakeholders",
+    "option_E": "Realisation of the organisations strategy and ambition",
+    "answer": "E",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 294,
+    "question": "A Stakeholder Engagement Assessment Matrix rates a stakeholder as “resistive” when:",
+    "option_A": "Not supportive of the changes that may occur as a result of the project",
+    "option_B": "Aware of the project and aware of the work and its outcomes",
+    "option_C": "Actively campaigning against the project",
+    "option_D": "Obstructing project work",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 295,
+    "question": "Free Float is:",
+    "option_A": "The amount of float available to a task when all its following tasks take place at their latest possible time.",
+    "option_B": "The amount of float available to a task when all its following tasks take place at their earliest possible time.",
+    "option_C": "The amount of time left over if the project finishes early.",
+    "option_D": "The residue of float available to a task after the project has started.",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 296,
+    "question": "Decomposition, as a technique for creating the WBS, does not include:",
+    "option_A": "Breaking up higher level deliverables into more detailed components",
+    "option_B": "Eliminating duplication",
+    "option_C": "Identifying deliverables",
+    "option_D": "Prioritization of deliverables",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 297,
+    "question": "Which is not an advantage of a predictive project lifecycle, compared to an iterative one, for well–defined project scope?",
+    "option_A": "Develops new knowledge and expertise",
+    "option_B": "Higher commitment to deliverables",
+    "option_C": "Minimises management complexity",
+    "option_D": "More cost effective",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 298,
+    "question": "Which of the following is an incorrect statement about formulating project scope?",
+    "option_A": "An opportunity for the project team to contribute to innovation",
+    "option_B": "Requires use of domain–specific knowledge to propose a concept design solution.",
+    "option_C": "May be difficult, including in a well–planned project",
+    "option_D": "Is completely defined by the stakeholders’ requirements",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 299,
+    "question": "Which of the following is an advantage of Gantt Charts over Network Analysis?",
+    "option_A": "Showing visual complexity",
+    "option_B": "An easier basis for resource planning",
+    "option_C": "Show the logical interdependencies between tasks",
+    "option_D": "Better calculation of floats",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 300,
+    "question": "Before working extensively on my project risk management plan, I should have completed at least:",
+    "option_A": "Communication plan",
+    "option_B": "WBS and estimates of cost and duration",
+    "option_C": "List of work packages, a network diagram and stakeholder analysis",
+    "option_D": "It doesn't matter, because risks can be added at any time",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 301,
+    "question": "Which of these formulas connected with earned value management is wrong?",
+    "option_A": "CV = EV – AC",
+    "option_B": "CPI = EV/AV",
+    "option_C": "SV = PV – EV",
+    "option_D": "SPI = EV/PV",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 302,
+    "question": "In a project plan or charter, the best way to summarise the project, communicate a conceptual definition of project boundaries, and set the expectations of the stakeholders is to:",
+    "option_A": "Write a scope statement",
+    "option_B": "Show the WBS",
+    "option_C": "Show the project Gantt chart",
+    "option_D": "Provide a cost summary",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 303,
+    "question": "If you are asked to join a panel of experts, are sent questionnaires to fill in, and are asked to comment on the responses of other people to the questionnaire, then you are likely participating in:",
+    "option_A": "Delphi method",
+    "option_B": "Apportionment method",
+    "option_C": "Program Evaluation and Review Technique",
+    "option_D": "Function point method",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 304,
+    "question": "Methods to help identify possible project risks do not include:",
+    "option_A": "Reading risk registers from past projects.",
+    "option_B": "Discarding the most severe risks if they have very low probability of occurrence.",
+    "option_C": "Consulting lessons learned from past projects, brainstorming.",
+    "option_D": "Focus groups, meetings, checklists, case studies, historical projects, surveys.",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 305,
+    "question": "Which of the following is not a real limitation of Agile methodologies?",
+    "option_A": "The project easily runs off–track if the PM is not focussed on the correct outcomes",
+    "option_B": "Requires expert judgement to make decisions in the meetings",
+    "option_C": "Higher implementation cost than other methodologies",
+    "option_D": "Harder to track progress compared to a predictive approach with a clear scope baseline",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 306,
+    "question": "A list of features, updates and modifications requested by the customer is the:",
+    "option_A": "Sprint",
+    "option_B": "MVP",
+    "option_C": "Throughput",
+    "option_D": "Backlog",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 307,
+    "question": "If you had to choose one option, which is probably best for success in your project(s)?",
+    "option_A": "A highly functioning team with basic tools",
+    "option_B": "Advanced tools and elaborate process",
+    "option_C": "Advanced tools used by a mediocre team",
+    "option_D": "Carefully perfected system of work",
+    "option_E": "Use Agile methodologies",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 308,
+    "question": "In a project to build a new workshop, ‘compliance with Australian Standards for operating machine tools’ is most likely to be a:",
+    "option_A": "Deliverable",
+    "option_B": "Functional requirement",
+    "option_C": "Benefit",
+    "option_D": "Constraint",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 309,
+    "question": "Common mistakes encountered in drawing up a WBS do not normally include:",
+    "option_A": "Duplication in scope between different parts.",
+    "option_B": "Including items in the WBS that are out of scope.",
+    "option_C": "Gaps in project scope.",
+    "option_D": "Listing tasks instead of deliverables.",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 310,
+    "question": "A PM should not agree to a proposed change until?",
+    "option_A": "its full effect on project priorities has been determined and communicated to relevant stakeholders",
+    "option_B": "the customer agrees to pay for all associated costs",
+    "option_C": "the change is removed from the critical path",
+    "option_D": "the sponsor accepts all risks associated with the change",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 311,
+    "question": "Activities that can take place at the same time are termed",
+    "option_A": "merge activity",
+    "option_B": "burst activity",
+    "option_C": "parallel activities",
+    "option_D": "critical path",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 312,
+    "question": "Three–point estimating provides a combined indication of:",
+    "option_A": "cost, time and risk",
+    "option_B": "cost, time and resources",
+    "option_C": "cost, time and effort",
+    "option_D": "cost, time and work",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 313,
+    "question": "Two disadvantages of fast tracking a schedule are, respectively:",
+    "option_A": "Schedule compression, increase in technical risk",
+    "option_B": "Increased schedule sensitivity, increased technical risk",
+    "option_C": "longer critical path, higher costs",
+    "option_D": "Reduction in sensitivity, longer critical path",
+    "option_E": "Longer critical path, increased schedule risk",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 314,
+    "question": "Which of the following is a well–defined risk?",
+    "option_A": "Risks from public opinion",
+    "option_B": "The project runs out of funding",
+    "option_C": "Delay to pouring concrete foundations due to heavy rain",
+    "option_D": "Team members cannot come to work",
+    "option_E": "Conflict with contractors over delivery schedule",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 315,
+    "question": "Developing and agreeing contingency plans with the stakeholders is a strategy for",
+    "option_A": "Risk avoidance",
+    "option_B": "Risk acceptance",
+    "option_C": "Risk transfer",
+    "option_D": "Risk prioritisation",
+    "option_E": "Risk mitigation",
+    "answer": "E",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 316,
+    "question": "‘People getting sick with COVID–19’ is not a good item to put in your risk register because:",
+    "option_A": "Who says? I think it’s a great thing to put in a risk register!",
+    "option_B": "It is an external threat to project delivery.",
+    "option_C": "It does not describe a discrete event for which you can plan a specific response",
+    "option_D": "It would be escalated to the project sponsor, and is therefore not managed by the PM.",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 317,
+    "question": "Which is not an advantage of adopting a functional organisation structure over a strong matrix project organisation?",
+    "option_A": "Nurturing of engineering knowledge in the organisation",
+    "option_B": "Ability to easily convene cross–functional teams",
+    "option_C": "Mentoring junior engineering team members in relevant discipline",
+    "option_D": "Inherent technical oversight of engineering decisions",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 318,
+    "question": "A disadvantage of using NPV as a method of project financial evaluation is:",
+    "option_A": "Compares rates of return regardless of project size",
+    "option_B": "It favours smaller projects over larger projects, regardless of rates of return",
+    "option_C": "It requires more effort to calculate than ERR",
+    "option_D": "It ignores the time value of money",
+    "option_E": "It favours larger projects over smaller projects, regardless of rates of return",
+    "answer": "E",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 319,
+    "question": "Which is false? The WBS:",
+    "option_A": "Should be decomposed to a level at which the work packages can be used to estimate time and budget",
+    "option_B": "Is composed of tasks, as indicated by predominance of verbs in the descriptions",
+    "option_C": "Is decomposed to sub deliverables and work packages",
+    "option_D": "Is the basis of developing project schedule and budget",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 320,
+    "question": "An example of a project change initiated by project monitoring and control processes would be:",
+    "option_A": "Changes in execution processes",
+    "option_B": "Changes forced by regulatory modifications",
+    "option_C": "Changes to scope due to quality issues needing rectification",
+    "option_D": "Changes to scope due to differences found in assumed vs actual environmental conditions",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 321,
+    "question": "To help you write project benefits you would, at least, need to obtain:",
+    "option_A": "Most of the project requirements",
+    "option_B": "The scope statement and the WBS",
+    "option_C": "Stakeholder register and list of project objectives",
+    "option_D": "The project risk register",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 322,
+    "question": "During the Closure lifecycle phase, the PM would need to:",
+    "option_A": "Elicit requirements",
+    "option_B": "Undertake stakeholder Analysis",
+    "option_C": "360 Degree Review of project staff performance",
+    "option_D": "Develop the team",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 323,
+    "question": "Earned value is:",
+    "option_A": "percent complete multiplied by actual cost",
+    "option_B": "the actual cost of work performed",
+    "option_C": "the budgeted cost of work planned",
+    "option_D": "the budgeted cost of work performed",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 324,
+    "question": "The revised estimate at completion (EAC = AC + ETC) assumes that:",
+    "option_A": "The delivery of future work will match its cost estimates",
+    "option_B": "Future work will be delivered at the same efficiency of past work",
+    "option_C": "There will be no further delays to project work",
+    "option_D": "The rate of delivering work in the future is the same as that to date",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 325,
+    "question": "A bottom–up estimate usually is:",
+    "option_A": "Done later in the project timeline, on a comparative cost basis and requires a comprehensive WBS",
+    "option_B": "Done earlier in the project timeline, on an accurate cost basis and requires an outline WBS",
+    "option_C": "Done later in the project timeline, on an accurate cost basis and requires a comprehensive WBS",
+    "option_D": "Done earlier in the project timeline, on a comparative cost basis and requires a comprehensive WBS",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 326,
+    "question": "An example of a non–functional, mandatory product requirement for an industrial control system could be:",
+    "option_A": "The control system shall display a warning light if the radiation dose rate is too high",
+    "option_B": "The control system shall perform with an interlock error probability of 1 in 10,000 per annum",
+    "option_C": "The control system should enable operators to select the desired actuator",
+    "option_D": "The control system shall maintain a log of all user interactions for the preceding 10 years",
+    "option_E": "The vendor shall provide documentation supporting the failure rate calculations for the control system",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 327,
+    "question": "Changing your project schedule so that release of your new computer game occurs 2 weeks before Christmas would be an example of:",
+    "option_A": "Sharing an opportunity",
+    "option_B": "Actively accepting an opportunity",
+    "option_C": "Mitigating a risk",
+    "option_D": "Exploiting an opportunity",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 328,
+    "question": "A PM needs a good understanding of their organisation's strategy because:",
+    "option_A": "Understanding organizational strategy will 100% ensure project success",
+    "option_B": "It enables the PM to set project deliverables that will realise the strategy",
+    "option_C": "Strategy is fundamental in determining how an organisation will compete",
+    "option_D": "This enables the PM to effectively advocate for their project",
+    "option_E": "",
+    "answer": "B",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 329,
+    "question": "The forward pass calculation through a project network diagram calculates:",
+    "option_A": "The earliest start and earliest finish date of each activity",
+    "option_B": "The critical path",
+    "option_C": "The late start and late finish date for each activity",
+    "option_D": "The total slack",
+    "option_E": "The earliest start and latest finish date of each activity",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 330,
+    "question": "In an engineering project, an important difference between requirements and scope is that:",
+    "option_A": "Requirements define the problem, whereas scope is your solution to it.",
+    "option_B": "Scope is usually negotiable.",
+    "option_C": "Requirements are usually negotiable.",
+    "option_D": "Scope defines the problem, whereas the requirements are the solution to it.",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 331,
+    "question": "Which of the following is a benefit of using a logical coding system for a WBS?",
+    "option_A": "Reduction in design resource requirements",
+    "option_B": "Reduction in planned project duration",
+    "option_C": "Ability to carry out cost reduction exercises",
+    "option_D": "Easy retrieval of items from past project records",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 332,
+    "question": "Planned value is:",
+    "option_A": "Useful for planning project progress payments",
+    "option_B": "Not meaningful until compared to earned value",
+    "option_C": "A good indicator of scope creep",
+    "option_D": "Percent complete multiplied by actual cost",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 333,
+    "question": "In estimating cost and time, reliable historical data and well–understood project parameters are essential to support:",
+    "option_A": "Parametric estimates",
+    "option_B": "Top–down approaches to estimating",
+    "option_C": "Bottom–up approaches to estimating",
+    "option_D": "Consensus methods",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 334,
+    "question": "In EV analysis, a project with a positive CV and negative SV would indicate:",
+    "option_A": "Project is under budget and behind schedule",
+    "option_B": "Project is over budget and behind schedule",
+    "option_C": "Project is under budget and ahead of schedule",
+    "option_D": "Project is over budget and ahead of schedule",
+    "option_E": "",
+    "answer": "A",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 335,
+    "question": "The management reserve budget is for funding:",
+    "option_A": "Contingency plans",
+    "option_B": "Rework of deliverables",
+    "option_C": "Changes to scope approved by the project manager",
+    "option_D": "Changes to scope approved by the steering committee",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 336,
+    "question": "Main reason to adopt Agile practices is:",
+    "option_A": "Solve siloes between business & IT",
+    "option_B": "Long term strategic planning",
+    "option_C": "Competitive edge",
+    "option_D": "Faster product delivery adjusted to changing customer needs",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 337,
+    "question": "Which of the following costs is a direct cost?",
+    "option_A": "Office rent",
+    "option_B": "Outsourcing HR administration",
+    "option_C": "Office consumables",
+    "option_D": "Hire of construction equipment",
+    "option_E": "",
+    "answer": "D",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 338,
+    "question": "If I am calculating earliest start and finish dates using a network diagram, then I am using...",
+    "option_A": "Critical chain method",
+    "option_B": "Variance analysis",
+    "option_C": "Critical path method",
+    "option_D": "Precedence diagramming method",
+    "option_E": "",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  },
+  {
+    "id": 339,
+    "question": "Crashing as a strategy for schedule compression:",
+    "option_A": "Should be avoided because it increases technical risks to project delivery",
+    "option_B": "Is a cost effective way to accelerate progress, but increases technical risks to project delivery",
+    "option_C": "Does not automatically increase risk, but will usually cost the project more to complete the same amount of work",
+    "option_D": "Relies on modifying the interdependencies between activities",
+    "option_E": "Does not really help to increase project progress",
+    "answer": "C",
+    "note": "",
+    "stats": {
+      "attempts": 0,
+      "correct": 0,
+      "wrong": 0
+    },
+    "favorite": false
+  }
+]
